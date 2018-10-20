@@ -11,7 +11,12 @@
 
 
 /* MY RULES */
-img + em { display: block; text-align: center;}
+img + em { 
+  display: block; 
+  text-align: center; 
+  font-size: 80%;
+  font-style: normal;
+}
 
 /**************/
 /* BASE RULES */
