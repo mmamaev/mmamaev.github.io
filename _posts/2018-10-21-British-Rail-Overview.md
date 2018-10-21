@@ -3,6 +3,8 @@ layout: post
 title: British railways. Visitor's manual
 ---
 
+![A train on Durham viaduct](/images/uk/rail/Train_on_Durham_viaduct.jpg)
+
 Taking a train is the most efficient and convenient way of traveling across Great Britain, no matter what the distance is.  
 
 I don't live in the UK but each time I visit the country I catch a train and go to places which I haven't seen yet. So far I've logged 85 rides along 29 different railway lines, from Exeter to Newcastle. On one particularly loaded day in January 2017, I managed to make eight journeys, although two of them being the result of catching a wrong train. 
@@ -21,10 +23,10 @@ The rail network of Great Britain is called "National Rail". All National Rail s
 [National Rail](http://www.nationalrail.co.uk/stations_destinations/maps.aspx#official) includes most but not all passenger train services that run on the island.  Metropolitan networks such as London Tube, DLR, or TFL rail, and specialty services such as Heathrow Express or Eurostar, are not part of National Rail. You can distinguish them by their specific logos.  In this post we will focus on traveling across the country, so let's follow the crow's foot.
 
 ![Canterbury West station](/images/uk/rail/Canterbury_West_Station.jpg)
-*[[Image credit](https://commons.wikimedia.org/wiki/File:Canterbury_West_Station_(1).jpg)]*
+*Canterbury West station featuring the crow's foot[[Image by Joshua Brown](https://commons.wikimedia.org/wiki/File:Canterbury_West_Station_(1).jpg)]*
 
-![Marylebonne station sign](/images/uk/rail/Marylebone_Station_British_Rail_and_Underground_2.jpg)
-*London Marylebonne station is served both by National Rail and the Tube [[Image credit](https://commons.wikimedia.org/wiki/File:London_Marylebone_Station_-_main_sign_-_British_Rail_and_Underground_(4673874463).jpg)]*
+![Marylebone station sign](/images/uk/rail/Marylebone_Station_British_Rail_and_Underground_2.jpg)
+*London Marylebone station is served both by National Rail and the Tube [[Image by Elliott Brown](https://commons.wikimedia.org/wiki/File:London_Marylebone_Station_-_main_sign_-_British_Rail_and_Underground_(4673874463).jpg)]*
 
 Under the hood, National Rail consists of about twenty companies that actually run trains and sell tickets. When you hear something like "a Thameslink service to Brighton", it means that this train to Brighton is run by a company called Thameslink.
 
@@ -35,24 +37,43 @@ Types of trains
 
 Usually, such factors as timing and price rather than the comfort of the carriage will define your choice of the train. Yet it might be useful to know what to expect on board.
 
-There are many types of the rolling stock, from cramped grim rail-buses to bullet-shaped shiny high-speed trains. The more rural is the rail line, the more chances that you find yourself packed into one of the former.
+There are many types of the rolling stock, from cramped grim rail-buses to bullet-shaped shiny high-speed trains. The more rural is the rail line, the more chances that you find yourself packed into one of these:
 
-![rail bus](/images/uk/rail/rail_bus.jpg)
-*One-carriage train (rail-bus) [[Image credit](https://www.flickr.com/photos/markegdell/31732022194/in/photostream/)]*
+![Class 153 rail-bus](/images/uk/rail/Northern_class153_railbus.jpg)
+*One-carriage train (rail-bus) [[Image by David Ingham](https://en.wikipedia.org/wiki/Northern_(train_operating_company)#/media/File:153358_Castleton_East_Junction.jpg)]*
 
-On longer trips, especially on the main lines connecting major cities, you may expect the modern comforts. These include power outlets, on-board WiFi, a buffet or a trolley service, a dedicated bike storage.  
+![Class 153 interior](/images/uk/rail/Class153_railbus_interior.jpg)
+*Interior of the above [[Image by Peter Skuce](https://en.wikipedia.org/wiki/British_Rail_Class_153#/media/File:153310_Internal.jpg)]*
 
-Not every train operator provides the entire range of the above. Sometimes power outlets are very scarce.  Sometimes WiFi is absent or not free of charge - you can find the details on [National Rail web site](http://www.nationalrail.co.uk/stations_destinations/44866.aspx). For more information about the train's facilities, check the websites of individual train companies. However, even if a facility is listed available I wouldn't rely on it as the last resort for something important. Recharge your phone and get things done on the Internet before you board the train.
+... or, even worse, these:
 
-As a rule of thumb, the fleets of Virgin Trains, London North Eastern Trains, Southeastern High Speed, and Thameslink consist of the most comfortable trains. 
+![Class 142 Pacer train](/images/uk/rail/Northern_Pacer_2cars_train.jpg)
+*Two-carriage "Pacer" rail-bus [[Image by Sam Pedley](https://www.flickr.com/photos/147485335@N05/33485782430)]*
+
+![Class 142 Pacer interiror](/images/uk/rail/Northern_Pacer_interior.jpg)
+*Interior of the above [[Image by R~P~M](https://www.flickr.com/photos/rpmarks/6300465434/in/photostream/)]*
 
 
-![High speed train](/images/uk/rail/railjavelin_train.jpg)
+On longer trips, especially on the main lines connecting major cities, you may expect a bit more space and the modern comforts. These include air conditioning, power outlets, on-board WiFi, a buffet or a trolley service, a dedicated bike storage, toilets with baby changing stations.  
+
+Not every train operator provides the entire range of the above. Sometimes power outlets are very scarce.  Sometimes WiFi is absent or not free of charge - you can find the details on [National Rail web site](http://www.nationalrail.co.uk/stations_destinations/44866.aspx). However, even if a facility is listed available I wouldn't rely on it as the last resort for something important. Recharge your phone and get things done on the Internet before you board the train. For more information about the train's facilities, check the websites of individual train companies. 
+
+As a rule of thumb, the fleets of Virgin Trains, London North Eastern Trains, Grand Central, Hull Trains, Southeastern High Speed, and Thameslink consist of comfortable trains. 
+
+
+![Javelin high speed train](/images/uk/rail/javelin_train.jpg)
 *Southeastern High Speed train [[Image credit](https://en.wikipedia.org/wiki/British_Rail_Class_395#/media/File:395018_London_St_Pancras.jpg)]*
 
+![Interior of Javelin](/images/uk/rail/Javelin_Class_395__interior.jpg)
+*Standard Class interior of the above [[Image by Sunil Prasannan](https://commons.wikimedia.org/wiki/File:Class_395_interior.JPG)]*
 
-On the other hand, with East Midlands Trains, West Midlands Railway, Northern, CrossCountry or ScotRail you are likely to find yourself on a rail-bus or a small cramped train. The fleets of the other companies are somewhat balanced between mainline trains and rural carriages.
+![Interior of a Virgin train](/images/uk/rail/Virgin_train_Standard_Class_interior.jpg)
+*Standard Class interior of a long distance Virgin train [[Image by Jasper](https://www.flickr.com/photos/nintendowii/24130935726/in/photostream/)]*
 
+![Interior of a Virgin train close-up](/images/uk/rail/Virgin_train_Standard_Class_interior_closeup.jpg)
+*Close-up: tray table and power outlet [[Image by Jasper](https://www.flickr.com/photos/nintendowii/23528834084/in/photostream/)]*
+
+On the other hand, with CrossCountry, East Midlands Trains, West Midlands Railway, ScotRail, or, especially, Northern you are likely to find yourself on a rail-bus with no leg room. The fleets of the other companies are somewhat balanced between mainline trains and rural carriages.
 
 
 
@@ -94,9 +115,15 @@ By "non-disruptive" I mean that the railway, in general, is maintaining normal o
 Time and length of travel
 -------------------------
 
-Try avoiding rush hours when masses commute to or from work, especially in the morning. In the case of Britain, this cliché advice is bolstered by an explicit economic incentive: tickets are cheaper if you set off after 9 AM.
+It is almost imperative to avoid rush hours (7 to 9:30, 16:30 to 19), especially on the routes going into or out of large cities. In the case of Britain, this cliché advice is bolstered by an explicit economic incentive: tickets are cheaper if you set off after 9 AM.
 
-On working days, traveling from London in the morning and returning in the afternoon is an anti-pattern, so the train should not be crowded. However, at weekend it is vice versa.
+On working days, traveling from London (or another large city) in the morning and returning in the afternoon is an anti-pattern, so the train should not be crowded. 
+
+At weekend the pattern reverses. People tend to fill outward trains after 10 am. The masses return in the evening.
+
+Avoid trains serving large sport events or festivals. 
+
+If you get unlucky with the train timing, the experience can turn really awful. I have seen people having trouble to squeeze themselves into a train, let alone finding a seat. Plan carefully.
 
 It is unlikely that even your longest journey takes more than four and a half hours. For your reference, I've made a map which shows travel times from London to other cities by fastest train.
 
