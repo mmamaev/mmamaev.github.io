@@ -1,15 +1,17 @@
 ---
 layout: post
 title: British railways. Visitor's manual
+category: UK
+tags: [railway, train]
 ---
 
 ![A train on Durham viaduct](/images/uk/rail/Train_on_Durham_viaduct.jpg)
 
-Taking a train is the most efficient and convenient way of traveling across Great Britain, no matter what the distance is.  
+Taking a train is the most efficient and convenient way of traveling across Great Britain. Although residents of the island constantly rumble at the trains being outdated and crowded, and everyone agrees that the tickets are a rip-off, as a visitor, you've got a different angle of view. Your alternatives are either more expensive, or slower, or both. Yet you don't have to spend thousands of pounds on an annual ticket and then ride overcrowded rush-hour trains. Train journeys will come out (mostly) pleasant and relatively cheap if you plan them well ahead and understand how the system works. This series of posts will help you with that.
 
 I don't live in the UK but each time I visit the country I catch a train and go to places which I haven't seen yet. So far I've logged 85 rides along 29 different railway lines, from Exeter to Newcastle. On one particularly loaded day in January 2017, I managed to make eight journeys, although two of them being the result of catching a wrong train. 
 
-With this kind of experience, I've got many tips and tricks to share. We'll begin with a practical overview of the British railway system in general. Then we will untangle the lore of ticketing - this knowledge will be your money saver. Next comes the art of advance planning - you'll learn how to save even more. Finally, we'll be going for a ride, and there are a few catches you might want to know.
+With this kind of experience, I've got many tips and tricks to share. We'll begin with a practical overview of the British railway system in general. Then we will untangle the lore of ticketing - this knowledge will be your money saver. Next comes the art of planning - you'll learn how to save even more. Finally, we'll be going for a ride, and there are a few catches you might want to know.
 
 
 
@@ -20,10 +22,10 @@ The rail network of Great Britain is called "National Rail". All National Rail s
 
 ![Crow's foot logo](/images/uk/rail/National_Rail_logo_red.png)
 
-[National Rail](http://www.nationalrail.co.uk/stations_destinations/maps.aspx#official) includes most but not all passenger train services that run on the island.  Metropolitan networks such as London Tube, DLR, or TFL rail, and specialty services such as Heathrow Express or Eurostar, are not part of National Rail. You can distinguish them by their specific logos.  In this post we will focus on traveling across the country, so let's follow the crow's foot.
+[National Rail](http://www.nationalrail.co.uk/stations_destinations/maps.aspx#official) includes most but not all passenger train services that run on the island. Metropolitan networks such as London Tube, DLR, or TfL rail, and specialty services such as Heathrow Express or Eurostar, are not part of National Rail. You can distinguis  h them by their specific logos. In this post we will focus on traveling across the country, so let's follow the crow's foot.
 
 ![Canterbury West station](/images/uk/rail/Canterbury_West_Station.jpg)
-*Canterbury West station featuring the crow's foot[[Image by Joshua Brown](https://commons.wikimedia.org/wiki/File:Canterbury_West_Station_(1).jpg)]*
+*Canterbury West station featuring the crow's foot [[Image by Joshua Brown](https://commons.wikimedia.org/wiki/File:Canterbury_West_Station_(1).jpg)]*
 
 ![Marylebone station sign](/images/uk/rail/Marylebone_Station_British_Rail_and_Underground_2.jpg)
 *London Marylebone station is served both by National Rail and the Tube [[Image by Elliott Brown](https://commons.wikimedia.org/wiki/File:London_Marylebone_Station_-_main_sign_-_British_Rail_and_Underground_(4673874463).jpg)]*
@@ -56,9 +58,9 @@ There are many types of the rolling stock, from cramped grim rail-buses to bulle
 
 On longer trips, especially on the main lines connecting major cities, you may expect a bit more space and the modern comforts. These include air conditioning, power outlets, on-board WiFi, a buffet or a trolley service, a dedicated bike storage, toilets with baby changing stations.  
 
-Not every train operator provides the entire range of the above. Sometimes power outlets are very scarce.  Sometimes WiFi is absent or not free of charge - you can find the details on [National Rail web site](http://www.nationalrail.co.uk/stations_destinations/44866.aspx). However, even if a facility is listed available I wouldn't rely on it as the last resort for something important. Recharge your phone and get things done on the Internet before you board the train. For more information about the train's facilities, check the websites of individual train companies. 
+Not every train operator provides the entire range of the above. Sometimes power outlets are very scarce. Sometimes WiFi is absent or not free of charge - you can find the details on [National Rail web site](http://www.nationalrail.co.uk/stations_destinations/44866.aspx). However, even if a facility is listed available I wouldn't rely on it as the last resort for something important. Recharge your phone and get things done on the Internet before you board the train. For more information about the train's facilities, check the websites of individual train companies. 
 
-As a rule of thumb, the fleets of Virgin Trains, London North Eastern Trains, Grand Central, Hull Trains, Southeastern High Speed, and Thameslink consist of comfortable trains. 
+The fleets of Virgin Trains, London North Eastern Trains, Grand Central, Hull Trains, Southeastern High Speed, and Thameslink consist of comfortable trains. 
 
 
 ![Javelin high speed train](/images/uk/rail/javelin_train.jpg)
@@ -73,14 +75,14 @@ As a rule of thumb, the fleets of Virgin Trains, London North Eastern Trains, Gr
 ![Interior of a Virgin train close-up](/images/uk/rail/Virgin_train_Standard_Class_interior_closeup.jpg)
 *Close-up: tray table and power outlet [[Image by Jasper](https://www.flickr.com/photos/nintendowii/23528834084/in/photostream/)]*
 
-On the other hand, with CrossCountry, East Midlands Trains, West Midlands Railway, ScotRail, or, especially, Northern you are likely to find yourself on a rail-bus with no leg room. The fleets of the other companies are somewhat balanced between mainline trains and rural carriages.
+On the contrary, with CrossCountry, East Midlands Trains, West Midlands Railway, ScotRail, or, especially, Northern you are likely to find yourself on a short cramped train with no leg room. The fleets of the other companies are somewhat balanced between mainline trains and rural carriages.
 
 
 
 First Class seating
 -------------------
 
-For a longer travel, when buying an Advance ticket well in advance you may get a very good bargain for the First Class. Yet before paying a premium for a First Class ticket, you would want to do some research to find out what exactly you're going to pay for.
+For a longer travel, when buying an Advance ticket well in advance you may get an excellent bargain for the First Class. Yet before paying a premium for a First Class ticket, you would want to do some research to find out what exactly you're going to pay for.
 
 My experience in the First Class is quite limited but, nevertheless, varied.
 
@@ -119,11 +121,11 @@ It is almost imperative to avoid rush hours (7 to 9:30, 16:30 to 19), especially
 
 On working days, traveling from London (or another large city) in the morning and returning in the afternoon is an anti-pattern, so the train should not be crowded. 
 
-At weekend the pattern reverses. People tend to fill outward trains after 10 am. The masses return in the evening.
+At weekend the pattern reverses. People tend to fill outward trains after 10 AM. The masses return in the evening. The days around the major holidays are particularly busy.
 
 Avoid trains serving large sport events or festivals. 
 
-If you get unlucky with the train timing, the experience can turn really awful. I have seen people having trouble to squeeze themselves into a train, let alone finding a seat. Plan carefully.
+If you get unlucky with the train timing, the experience can turn really awful. I have seen people having trouble to squeeze themselves into a train, let alone finding a seat. As a visitor, you can afford more flexibile schedule than resident commuters, so plan your rides accordingly.
 
 It is unlikely that even your longest journey takes more than four and a half hours. For your reference, I've made a map which shows travel times from London to other cities by fastest train.
 
@@ -132,5 +134,5 @@ It is unlikely that even your longest journey takes more than four and a half ho
 
 Just for the fun of the thing, the longest direct service I could find is Penzance to Glasgow. It takes 11 hours 47 minutes to do the full length of the route via Bristol, Birmingham, York, Newcastle, and Edinburgh. Ironically, the direct train is not the fastest. You will make it to Glasgow in ten hours if you change trains on the way.  
 
-There are also two sleeper trains from London, one going to Penzance and the other fanning out to several destinations in Scotland. You could take these for the sake of the experience, yet the same destinations are reachable within the daylight hours in a significantly shorter time frame. 
+There are also two sleeper trains from London, one going to Penzance and the other fanning out to several destinations in Scotland. You could take these for the sake of the experience and save on a hotel. The same destinations are reachable within the daylight hours in a shorter time frame. 
 
