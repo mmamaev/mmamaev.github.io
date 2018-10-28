@@ -5,9 +5,9 @@ category: UK
 tags: [railway, train, ticket, Advance, Anytime, Off-Peak, Single, Return, seat reservation, Rover]
 ---
 
-*This is the second part of [British Railways. Visitor's Guide]({{ site.url }}/british_railways)*
+![Many tickets on a table]({{ site.url }}/images/uk/rail/tickets_on_table1.jpg)
 
-![Many tickets on a table]({{ site.url }}/images/uk/rail/tickets_on_table.jpg)
+*This is the second part of [British railways. Visitor's manual]({{ site.url }}/british_railways)*
 
 When dealing with National Rail, the most important and tricky business is getting the right ticket at the cheapest possible price. 
 
@@ -30,7 +30,7 @@ For longer distance trains, an Advance ticket always comes with a seat reservati
 Below you can see an example of an Advance ticket. This ticket was for a journey from Newark to Hexham which consisted of two legs with the connection in Newcastle. Consequently, the ticket specifies two trains to be taken: the long distance 16:44 service from Newark North Gate to Newcastle, and the local 19:25 service from Newcastle to Hexham. Seat 4 in coach B is reserved on the first train. On the second leg, the local train does not provide seat reservations.
 
 ![Advance ticket]({{ site.url }}/images/uk/rail/Advance_ticket.png)
-*Example of an Advance ticket*
+*Advance ticket*
 
 You may have noticed that the type of ticket is not just Advance but Advance Single. This is a purely technical nuance. "Single" means "one-way". As all Advance tickets are one-way, they are all Single tickets.
 
@@ -74,7 +74,9 @@ The type of walk-up ticket indicates the time of the day when you can travel wit
 
 You can also encounter "Super Off-Peak" type which is used when there are two different off-peak tariffs. 
 
-Advance tickets are the most expensive, Off-Peak ones are cheaper, and the Super Off-Peak being the cheapest and most restrictive time-wise.
+Anytime tickets are the most expensive, Off-Peak ones are cheaper, and the Super Off-Peak being the cheapest and most restrictive time-wise.
+
+
 
 So, when exactly are the off-peak hours? Unfortunately, there is no simple answer. 
 
@@ -100,11 +102,12 @@ To be 100% sure, especially when traveling into or out of London, look at your t
 
 ### Single vs Return
 
-The second feature of a walk-up ticket indicates whether this is a one-way or a round-trip ticket, and on what dates you can travel there and back. 
-
-Usually, you can select from three options:
+The second feature of a walk-up ticket indicates whether this is a one-way or a round-trip ticket, and on what dates you can travel there and back. Usually, you can select from three options: Sinlge, Return, and Day Return.
 
 - Single - this is a one-way ticket. It is valid on the day of travel which is printed on the ticket. 
+
+[Anytime Single tickets]({{ site.url }}/images/uk/rail/Anytime_Single_tickets.png)
+*Anytime Single tickets bought over-the-counter (left) and printed by a self-service machine (right)*
 
 - Return - this is a round-trip ticket. The outward part is valid on the day of travel which is printed on the ticket. The return journey must be completed within one calendar month. You may as well return on the same day if you wish.
 
@@ -115,16 +118,18 @@ Don't be confused by the usage of the word "return". When it is applied to a tic
 
 Whatever type of a return ticket you buy,  the ticket will be printed in two coupons labeled "Outward" (or "OUT") and "Return" (or "RTN"). Each coupon is effectively a one-way ticket which you will use on the appropriate part of your trip.  
 
-![Off-Peak Day Return ticket printed by self-service machine]({{ site.url }}/images/uk/rail/Off-Peak_Day_Return_ticket_machine.png)
-*An example of an Off-Peak Day Return ticket printed by a self-service machine*
+![Off-Peak Day Return ticket printed by self-service machine]({{ site.url }}/images/uk/rail/Off-Peak_Day_Return_ticket.png)
+*Off-Peak Day Return ticket printed by a self-service machine*
 
-The above picture shows a ticket collected from a self-service machine. If you buy a ticket from a clerk in a ticket office, it will look a bit more cryptic:
+     
 
-![Off-Peak Day Return ticket bought from a clerk]({{ site.url }}/images/uk/rail/Off-Peak_Day_Return_ticket_clerk.png))
-*An example of an Off-Peak Day Return ticket bought from a clerk*
+![Off-Peak Day Return ticket bought from a clerk]({{ site.url }}/images/uk/rail/Off-Peak_Day_Return_ticket_clerk.png)
+*Off-Peak Day Return ticket bought over-the-counter in the ticket office*
 
-![Return coupon of an Off-Peak Return ticket]({{ site.url }}/images/uk/rail/Off-Peak_Return_ticket.png))
-*A return coupon of an Off-Peak Return ticket showing the 31 day period of validity*
+Below is a return coupon of an Off-Peak Return ticket showing the 31 day period of validity:
+
+![Return coupon of an Off-Peak Return ticket]({{ site.url }}/images/uk/rail/Off-Peak_Return_ticket.png)
+*Return coupon of an Off-Peak Return ticket*
 
 
 ### Putting it all together
