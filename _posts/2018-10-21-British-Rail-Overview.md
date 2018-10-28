@@ -3,6 +3,7 @@ layout: post
 title: British railways. Visitor's manual
 category: UK
 tags: [railway, train]
+permalink: /british_railways
 ---
 
 ![A train on Durham viaduct]({{ site.url }}/images/uk/rail/Train_on_Durham_viaduct.jpg)
@@ -30,7 +31,7 @@ The rail network of Great Britain is called "National Rail". All National Rail s
 ![Marylebone station sign]({{ site.url }}/images/uk/rail/Marylebone_Station_British_Rail_and_Underground_2.jpg)
 *London Marylebone station is served both by National Rail and the Tube [[Image by Elliott Brown](https://commons.wikimedia.org/wiki/File:London_Marylebone_Station_-_main_sign_-_British_Rail_and_Underground_(4673874463).jpg)]*
 
-Under the hood, National Rail consists of about twenty companies that actually run trains and sell tickets. When you hear something like "a Thameslink service to Brighton", it means that this train to Brighton is run by a company called Thameslink.
+Under the hood, National Rail consists of about [twenty companies](http://www.nationalrail.co.uk/tocs_maps/tocs/TrainOperators.aspx) that actually run trains and sell tickets. When you hear something like "a Thameslink service to Brighton", it means that this train to Brighton is run by a company called Thameslink.
 
 Often you don't care about train operating companies. National Rail maintains the unified timetable and provides through ticketing across all the network. There is no need to deal with each train company separately. Yet in some cases you might want to know what company runs your train; we'll get to these in due time.
 
@@ -135,3 +136,4 @@ Just for the fun of the thing, the longest direct service I could find is Penzan
 
 There are also two sleeper trains from London, one going to Penzance and the other fanning out to several destinations in Scotland. You could take these for the sake of the experience and save on a hotel. The same destinations are reachable within the daylight hours in a shorter time frame. 
 
+*To be continued with "Understanding train tickets". Stay tuned!*
