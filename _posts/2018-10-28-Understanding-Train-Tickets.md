@@ -30,7 +30,7 @@ For longer distance trains, an Advance ticket always comes with a seat reservati
 Below you can see an example of an Advance ticket. This ticket was for a journey from Newark to Hexham which consisted of two legs with the connection in Newcastle. Consequently, the ticket specifies two trains to be taken: the long distance 16:44 service from Newark North Gate to Newcastle, and the local 19:25 service from Newcastle to Hexham. Seat 4 in coach B is reserved on the first train. On the second leg, the local train does not provide seat reservations.
 
 ![Advance ticket]({{ site.url }}/images/uk/rail/Advance_ticket.png)
-*Advance ticket*
+
 
 You may have noticed that the type of ticket is not just Advance but Advance Single. This is a purely technical nuance. "Single" means "one-way". As all Advance tickets are one-way, they are all Single tickets.
 
@@ -106,7 +106,7 @@ The second feature of a walk-up ticket indicates whether this is a one-way or a 
 
 - Single - this is a one-way ticket. It is valid on the day of travel which is printed on the ticket. 
 
-[Anytime Single tickets]({{ site.url }}/images/uk/rail/Anytime_Single_tickets.png)
+![Anytime Single tickets]({{ site.url }}/images/uk/rail/Anytime_Single_tickets.png)
 *Anytime Single tickets bought over-the-counter (left) and printed by a self-service machine (right)*
 
 - Return - this is a round-trip ticket. The outward part is valid on the day of travel which is printed on the ticket. The return journey must be completed within one calendar month. You may as well return on the same day if you wish.
@@ -118,18 +118,20 @@ Don't be confused by the usage of the word "return". When it is applied to a tic
 
 Whatever type of a return ticket you buy,  the ticket will be printed in two coupons labeled "Outward" (or "OUT") and "Return" (or "RTN"). Each coupon is effectively a one-way ticket which you will use on the appropriate part of your trip.  
 
-![Off-Peak Day Return ticket printed by self-service machine]({{ site.url }}/images/uk/rail/Off-Peak_Day_Return_ticket.png)
-*Off-Peak Day Return ticket printed by a self-service machine*
+Off-Peak Day Return ticket printed by a self-service machine:
 
-     
+![Off-Peak Day Return ticket printed by self-service machine]({{ site.url }}/images/uk/rail/Off-Peak_Day_Return_ticket.png)
+
+
+Off-Peak Day Return ticket bought over-the-counter in the ticket office:     
 
 ![Off-Peak Day Return ticket bought from a clerk]({{ site.url }}/images/uk/rail/Off-Peak_Day_Return_ticket_clerk.png)
-*Off-Peak Day Return ticket bought over-the-counter in the ticket office*
 
-Below is a return coupon of an Off-Peak Return ticket showing the 31 day period of validity:
+
+The return coupon of an Off-Peak Return ticket showing the 31 day period of validity:
 
 ![Return coupon of an Off-Peak Return ticket]({{ site.url }}/images/uk/rail/Off-Peak_Return_ticket.png)
-*Return coupon of an Off-Peak Return ticket*
+
 
 
 ### Putting it all together
@@ -139,17 +141,18 @@ Below is a return coupon of an Off-Peak Return ticket showing the 31 day period 
 | --- | --- | --- | --- | --- |
 | Advance | Yes, until sold out | No | Only specific train shown on the ticket | N/A |
 | Anytime Single (=Anytime Day Single) | Yes | Yes | Any train on any reasonable route on the day shown on the ticket | N/A |
-| Anytime Return (=Anytime Short Return) | Yes | Yes | Any train on any reasonable route on the day shown on the ticket | Within 30 days from the date of the outward journey |
+| Anytime Return (=Anytime Short Return) | Yes | Yes | Any train on any reasonable route on the day shown on the ticket | Within one month from the date of the outward journey |
 | Anytime Day Return | Yes | Yes | Any train on any reasonable route on the day shown on the ticket | On the same day when you make the outward journey |
 | (Super) Off-Peak Single | Yes | Yes | Any off-peak train on any reasonable route on the day shown on the ticket | N/A |
-| (Super) Off-Peak Return | Yes | Yes | Any off-peak train on any reasonable route on the day shown on the ticket | Within 30 days from the date of the outward journey, off-peak trains only |
+| (Super) Off-Peak Return | Yes | Yes | Any off-peak train on any reasonable route on the day shown on the ticket | Within one month from the date of the outward journey, off-peak trains only |
 | (Super) Off-Peak Day Return | Yes | Yes | Any off-peak train on any reasonable route on the day shown on the ticket | On the same day when you make the outward journey, off-peak trains only |
+{:.mytablestyle}
 
 The fine print:
 
 - For the ticketing purposes, a railway day ends at 04:29 on the following calendar day, thus overlapping with the next railway day. So, if you board a train at 00:05 on Tuesday, you can do it either with an Anytime or Off-Peak ticket valid on Monday or with Anytime (but not Off-Peak) ticket valid on Tuesday. With the ticket from the previous day, you must complete your journey by 04:29.
 
-- Anytime Single ticket is valid for two days while Anytime Day Single is valid only for one day. The outward coupon of Anytime Return is valid for five days while the outward coupon of Anytime Short Return is valid only for one day. I could not think of any plausible scenario when it made sense to take advantage of the extended validity of Anytime Single/Return. Therefore, for the practical purposes, Anytime Single is the same as Anytime Day Single, and Anytime Return is the same as Anytime Short Return.
+- Anytime Single ticket is valid for two days while Anytime Day Single is valid only for one day. The outward coupon of Anytime Return is valid for five days while the outward coupon of Anytime Short Return is valid only for one day. I could not think of any plausible scenario when it made sense to take advantage of the extended validity of Anytime Single/Return. Therefore, for the practical purposes, Anytime Single shall be the same as Anytime Day Single, and Anytime Return - the same as Anytime Short Return.
 
 The official information about the ticket types can be found on [National Rail site.](http://www.nationalrail.co.uk/times_fares/ticket_types.aspx#Which)
 
@@ -192,7 +195,7 @@ Longer distance trains offer seat reservations, even if your ride on such a trai
 
 With Advance tickets, seat reservation is obligatory. The assigned seat will be indicated on the ticket.
 
-If you are buying a walk-up ticket you may also reserve a seat if you wish. You do it for a specific train but you are not obliged to travel on this train. Seat reservation does not limit the validity of your ticket to one train; you may instead travel on any other allowed train, thus leaving your reserved seat unclaimed. You may reserve a seat while buying a ticket, or later, in any ticket office. Seat reservation is done free of charge. With a walk-up ticket, a seat reservation comes in the form of a separate coupon.
+If you are buying a walk-up ticket you may also reserve a seat. The seat will be reserved on a specific train of your choice but you are not obliged to travel on this train. Seat reservation does not limit the validity of your ticket to one train; you may instead travel on any other allowed train, thus leaving your reserved seat unclaimed. You may reserve a seat while buying a ticket, or later, in any ticket office. Seat reservation is done free of charge. With a walk-up ticket, a seat reservation comes in the form of a separate coupon.
 
 On the train, reserved seats are marked with paper flyers stuck into the tops of seats. Alternatively, some types of carriages provide the reservation information on an electronic display above the seat.
 
