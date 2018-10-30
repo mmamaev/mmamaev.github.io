@@ -139,13 +139,13 @@ The return coupon of an Off-Peak Return ticket showing the 31 day period of vali
 
 | Ticket type | Can buy in advance? | Can buy on the day of travel? | What train can I take? | On what day can I return? |
 | --- | --- | --- | --- | --- |
-| Advance | Yes, until sold out | No | Only specific train shown on the ticket | N/A |
-| Anytime Single (=Anytime Day Single) | Yes | Yes | Any train on any reasonable route on the day shown on the ticket | N/A |
-| Anytime Return (=Anytime Short Return) | Yes | Yes | Any train on any reasonable route on the day shown on the ticket | Within one month from the date of the outward journey |
-| Anytime Day Return | Yes | Yes | Any train on any reasonable route on the day shown on the ticket | On the same day when you make the outward journey |
-| (Super) Off-Peak Single | Yes | Yes | Any off-peak train on any reasonable route on the day shown on the ticket | N/A |
-| (Super) Off-Peak Return | Yes | Yes | Any off-peak train on any reasonable route on the day shown on the ticket | Within one month from the date of the outward journey, off-peak trains only |
-| (Super) Off-Peak Day Return | Yes | Yes | Any off-peak train on any reasonable route on the day shown on the ticket | On the same day when you make the outward journey, off-peak trains only |
+| Advance | Yes, until sold out | No | Only __specific__ train shown on the ticket | This is a one-way ticket |
+| Anytime Single (=Anytime Day Single) | Yes | Yes | __Any__ train on any permitted route on the day shown on the ticket | This is a one-way ticket |
+| Anytime Return (=Anytime Short Return) | Yes | Yes | __Any__ train on any permitted route on the day shown on the ticket | Within __one month__ from the date of the outward journey |
+| Anytime Day Return | Yes | Yes | __Any__ train on any permitted route on the day shown on the ticket | On the __same day__ when you make the outward journey |
+| (Super) Off-Peak Single | Yes | Yes | Any __off-peak__ train conforming to the restriction code, on any permitted route on the day shown on the ticket | This is a one-way ticket |
+| (Super) Off-Peak Return | Yes | Yes | Any __off-peak__ train conforming to the restriction code, on any permitted route on the day shown on the ticket | Within __one month__ from the date of the outward journey, conforming off-peak trains only |
+| (Super) Off-Peak Day Return | Yes | Yes | Any off-peak train conforming to the restriction code, on any permitted route on the day shown on the ticket | On the __same day__ when you make the outward journey, conforming off-peak trains only |
 {:.mytablestyle}
 
 The fine print:
