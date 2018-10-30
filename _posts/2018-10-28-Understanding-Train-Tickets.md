@@ -5,7 +5,7 @@ category: UK
 tags: [railway, train, ticket, Advance, Anytime, Off-Peak, Single, Return, seat reservation, Rover]
 ---
 
-!({{ site.url }}/images/uk/rail/tickets_on_table1.jpg)
+![]({{ site.url }}/images/uk/rail/tickets_on_table1.jpg)
 
 *This is the second part of [British railways. Visitor's manual]({{ site.url }}/british_railways)*
 

@@ -6,7 +6,7 @@ tags: [railway, train]
 permalink: /british_railways
 ---
 
-!({{ site.url }}/images/uk/rail/Train_on_Durham_viaduct.jpg)
+![]({{ site.url }}/images/uk/rail/Train_on_Durham_viaduct.jpg)
 
 Taking a train is the most efficient and convenient way of traveling across Great Britain. Although residents of the island constantly rumble at the trains being outdated and crowded, and everyone agrees that the tickets are a rip-off, as a visitor, you've got a different angle of view. Your alternatives are either more expensive, or slower, or both. But unlike the commuters, you don't have to spend thousands of pounds on an annual ticket and then ride overcrowded rush-hour trains. You will make your journeys (mostly) pleasant and relatively cheap if you plan them well ahead and understand how the system works. This series of posts will help you with that.
 
