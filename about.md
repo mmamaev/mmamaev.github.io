@@ -16,7 +16,7 @@ Your time away is precious. Either you have carved out a few spare days during y
 The key to success is being prepared. You are willing to do some homework to draw up a plan. You need information.
 
 
-## What I do for you
+### What I do for you
 
 I give systematic reviews of travel-related infrastructures and facilities. You can use these as how-to guides and checklists. 
 

@@ -6,13 +6,13 @@ tags: [railway, train]
 permalink: /british_railways
 ---
 
-![A train on Durham viaduct]({{ site.url }}/images/uk/rail/Train_on_Durham_viaduct.jpg)
+!({{ site.url }}/images/uk/rail/Train_on_Durham_viaduct.jpg)
 
 Taking a train is the most efficient and convenient way of traveling across Great Britain. Although residents of the island constantly rumble at the trains being outdated and crowded, and everyone agrees that the tickets are a rip-off, as a visitor, you've got a different angle of view. Your alternatives are either more expensive, or slower, or both. But unlike the commuters, you don't have to spend thousands of pounds on an annual ticket and then ride overcrowded rush-hour trains. You will make your journeys (mostly) pleasant and relatively cheap if you plan them well ahead and understand how the system works. This series of posts will help you with that.
 
 I don't live in the UK but each time I visit the country I catch a train and go to places which I haven't seen yet. So far I've logged 85 rides along 29 different railway lines, from Exeter to Newcastle. On one particularly loaded day in January 2017, I managed to make eight journeys, although two of them being the result of catching a wrong train. 
 
-With this kind of experience, I've got many tips and tricks to share. We'll begin with a practical overview of the British railway system in general. Then we will untangle the lore of ticketing - this knowledge will be your money saver. Next comes the art of planning - you'll learn how to save even more. Finally, we'll be going for a ride, and there are a few catches you might want to know as well.
+With this kind of experience, I've got many tips and tricks to share. In this post, we'll begin with a practical overview of the British railway system in general. Then we will [untangle the lore of ticketing]({{ site.url }}/Understanding-Train-Tickets/) - this knowledge will be your money saver. Next comes the art of planning - you'll learn how to save even more. Finally, we'll be going for a ride, and there are a few catches you might want to know as well.
 
 
 

@@ -5,7 +5,7 @@ category: UK
 tags: [railway, train, ticket, Advance, Anytime, Off-Peak, Single, Return, seat reservation, Rover]
 ---
 
-![Many tickets on a table]({{ site.url }}/images/uk/rail/tickets_on_table1.jpg)
+!({{ site.url }}/images/uk/rail/tickets_on_table1.jpg)
 
 *This is the second part of [British railways. Visitor's manual]({{ site.url }}/british_railways)*
 
@@ -77,7 +77,6 @@ You can also encounter "Super Off-Peak" type which is used when there are two di
 Anytime tickets are the most expensive, Off-Peak ones are cheaper, and the Super Off-Peak being the cheapest and most restrictive time-wise.
 
 
-
 So, when exactly are the off-peak hours? Unfortunately, there is no simple answer. 
 
 When you'll be searching for trains on National Rail website, it will show what trains can be ridden with a particular off-peak ticket. Make a note of that.
@@ -97,7 +96,7 @@ traveling elsewhere on a weekday:
 - a train departing after 9 AM is _almost certainly_ Off-Peak.
 
 
-To be 100% sure, especially when traveling into or out of London, look at your ticket and find a note "This ticket can only be used at certain times, for details ask staff or go to ..." followed by a web address looking like <http://www.nationalrail.co.uk/4A> or similar. The link will take you to a page which describes the restrictions of your ticket in detail.
+To be 100% sure, especially when traveling into or out of London, look at your ticket and find a note "This ticket can only be used at certain times, for details ask staff or go to ..." followed by a web address looking like <http://www.nationalrail.co.uk/4A> or similar. The link will take you to a page which describes the restrictions of your ticket in detail, "4A" being the restriction code of your ticket.
 
 
 ### Single vs Return
@@ -140,19 +139,19 @@ The return coupon of an Off-Peak Return ticket showing the 31 day period of vali
 | Ticket type | Can buy in advance? | Can buy on the day of travel? | What train can I take? | On what day can I return? |
 | --- | --- | --- | --- | --- |
 | Advance | Yes, until sold out | No | Only __specific__ train shown on the ticket | This is a one-way ticket |
-| Anytime Single (=Anytime Day Single) | Yes | Yes | __Any__ train on any permitted route on the day shown on the ticket | This is a one-way ticket |
-| Anytime Return (=Anytime Short Return) | Yes | Yes | __Any__ train on any permitted route on the day shown on the ticket | Within __one month__ from the date of the outward journey |
+| Anytime Single  or Anytime Day Single | Yes | Yes | __Any__ train on any permitted route on the day shown on the ticket | This is a one-way ticket |
+| Anytime Return  or Anytime Short Return | Yes | Yes | __Any__ train on any permitted route on the day shown on the ticket | Within __one month__ from the date of the outward journey |
 | Anytime Day Return | Yes | Yes | __Any__ train on any permitted route on the day shown on the ticket | On the __same day__ when you make the outward journey |
 | (Super) Off-Peak Single | Yes | Yes | Any __off-peak__ train conforming to the restriction code, on any permitted route on the day shown on the ticket | This is a one-way ticket |
 | (Super) Off-Peak Return | Yes | Yes | Any __off-peak__ train conforming to the restriction code, on any permitted route on the day shown on the ticket | Within __one month__ from the date of the outward journey, conforming off-peak trains only |
-| (Super) Off-Peak Day Return | Yes | Yes | Any off-peak train conforming to the restriction code, on any permitted route on the day shown on the ticket | On the __same day__ when you make the outward journey, conforming off-peak trains only |
+| (Super) Off-Peak Day Return | Yes | Yes | Any __off-peak__ train conforming to the restriction code, on any permitted route on the day shown on the ticket | On the __same day__ when you make the outward journey, conforming off-peak trains only |
 {:.mytablestyle}
 
 The fine print:
 
 - For the ticketing purposes, a railway day ends at 04:29 on the following calendar day, thus overlapping with the next railway day. So, if you board a train at 00:05 on Tuesday, you can do it either with an Anytime or Off-Peak ticket valid on Monday or with Anytime (but not Off-Peak) ticket valid on Tuesday. With the ticket from the previous day, you must complete your journey by 04:29.
 
-- Anytime Single ticket is valid for two days while Anytime Day Single is valid only for one day. The outward coupon of Anytime Return is valid for five days while the outward coupon of Anytime Short Return is valid only for one day. I could not think of any plausible scenario when it made sense to take advantage of the extended validity of Anytime Single/Return. Therefore, for the practical purposes, Anytime Single shall be the same as Anytime Day Single, and Anytime Return - the same as Anytime Short Return.
+- Anytime Single ticket is valid for two days while Anytime Day Single is valid only for one day. The outward coupon of Anytime Return is valid for five days while the outward coupon of Anytime Short Return is valid only for one day. I could not think of any plausible scenario when it made economic sense to take advantage of the extended validity of Anytime Single/Return tickets. Therefore, for the practical purposes, Anytime Single shall be the same as Anytime Day Single, and Anytime Return - the same as Anytime Short Return. The outward parts of Off-Peak tickets are valid only on the day shown on the ticket.
 
 The official information about the ticket types can be found on [National Rail site.](http://www.nationalrail.co.uk/times_fares/ticket_types.aspx#Which)
 
@@ -204,7 +203,7 @@ On the train, reserved seats are marked with paper flyers stuck into the tops of
 
 ## Rover/Ranger tickets
 
-There is also an exotic class of tickets called Rover (or Ranger). Such ticket entitles you to unlimited travel within a particular area. The ticket is valid for a specified number of days, for example, any three days of the consecutive seven days. Usually, you can use the ticket only for off-peak rides.
+There is also an exotic type of tickets called Rover (or Ranger). Such ticket entitles you to unlimited travel within a particular area. The ticket is valid for a specified number of days, for example, any three days of the consecutive seven days. Usually, you can use the ticket only for off-peak rides.
 
 A list of all available Rover ticket offerings can be found on [National Rail website](http://www.nationalrail.co.uk/times_fares/rangers_and_rovers.aspx). If you click on each offering, you will find its price, terms and conditions, and the map of the area where the ticket is valid.
 
