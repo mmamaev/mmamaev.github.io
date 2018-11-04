@@ -7,11 +7,11 @@ tags: [railway, train, ticket, Advance, Anytime, Off-Peak, Single, Return, seat 
 
 ![]({{ site.url }}/images/uk/rail/tickets_on_table1.jpg)
 
-*This is the second part of [British railways. Visitor's manual]({{ site.url }}/british_railways)*
+*This is the second part of ["British railways. Visitor's manual"]({{ site.url }}/british_railways)*
 
 When dealing with National Rail, the most important and tricky business is getting the right ticket at the cheapest possible price. 
 
-The ticket prices for the same journey may vary wildly. For example, my best deal so far was a Berkeley to Lincoln ticket. I bought it online for 8 pounds while a walk-up ticket for this journey would cost me 46,50. Effectively, I got the 83% discount. On average, with careful and early planning you can cut your ticket costs by half or more.
+The ticket prices for the same journey may vary wildly. For example, my best deal so far was a Berkeley to Lincoln ticket. I bought it online for 8 pounds while a walk-up ticket for this journey would cost me 46.50. Effectively, I got the 83% discount. On average, with careful and early planning you can cut your ticket costs by half or more.
 
 
 ## Types of train tickets
@@ -209,11 +209,12 @@ A list of all available Rover ticket offerings can be found on [National Rail we
 
 The problem with Rover tickets is purely economical. I failed to find a Rover ticket whose price justified its purchase. You'd do way too much traveling over the area to make a Rover ticket more cost-efficient than a set of Off-Peak tickets let alone Advance ones.
 
-For example, assume that you are based in Bristol. Nearby places of interest reachable by train are Bath, Salisbury, Gloucester, Worcester, and Exeter. The first four are within the area of ["Freedom of Severn & Solent 3 in 7 Day Rover"](http://www.nationalrail.co.uk/times_fares/pr8bb6ac0a0400040155984b49bbe4b3.aspx) ticket priced GBP 59. All five are covered by ["Freedom of the South West 3 in 7 Day Rover"](http://www.nationalrail.co.uk/times_fares/pr0f61f9c35ce741009c0e3842403e09.aspx) ticket priced GBP 102,60.
+For example, assume that you are based in Bristol. Nearby places of interest reachable by train are Bath, Salisbury, Gloucester, Worcester, and Exeter. The first four are within the area of ["Freedom of Severn & Solent 3 in 7 Day Rover"](http://www.nationalrail.co.uk/times_fares/pr8bb6ac0a0400040155984b49bbe4b3.aspx) ticket priced £59. All five are covered by ["Freedom of the South West 3 in 7 Day Rover"](http://www.nationalrail.co.uk/times_fares/pr0f61f9c35ce741009c0e3842403e09.aspx) ticket priced £102.60.
 
-With the first Rover ticket we can do Gloucester and Worcester in day 1, Bath in day 2 and Salisbury in day 3. However, if we bought separate  Off-Peak Day Return tickets we'd pay 14,00 for Worcester (making an allowed break of journey in Gloucester),  7,90 for Bath Spa, and 23,00 for Salisbury, spending GBP 44,9 in total. This is 14 pounds (24%) less than the price of the Rover ticket.
+With the first Rover ticket we can do Gloucester and Worcester in day 1, Bath in day 2 and Salisbury in day 3. However, if we bought separate  Off-Peak Day Return tickets we'd pay 14.00 for Worcester (making an allowed break of journey in Gloucester),  7.90 for Bath Spa, and 23.00 for Salisbury, spending £44.90 in total. This is 14 pounds (24%) less than the price of the Rover ticket.
 
-If we skipped the cheapest journey (Bath) and instead headed for Exeter (GBP 29,6 for Off-Peak Return) we'd spend 66,60. Yet to include Exeter we'd need the Rover ticket that costs 102,60.
+If we skipped the cheapest journey (Bath) and instead headed for Exeter (£29.60 for Off-Peak Return) we'd spend 66.60. Yet to include Exeter we'd need the Rover ticket that costs 102.60.
 
 I am not saying that Rover tickets never make sense. If your routes fan out from one base for several days or, preferably, if you're making a one-way cyclic tour through an area, it may be worth to check Rover tickets available for this area. However, I'd suggest that in most cases Rover tickets are not economically viable.
 
+*Next chapter: ["Getting a discount: railcards, children, groups, buses"]({{ site.url }}/Railcards-and-Other-Discounts/).*

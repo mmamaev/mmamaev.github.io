@@ -89,17 +89,17 @@ My experience in the First Class is quite limited but, nevertheless, varied.
 First Class of London North East Railway (former Virgin Trains East Coast) in a train to Durham was great. There was a dedicated First Class coach with broad comfy seats, both individual and paired. You get free WiFi, and a free meal (a sandwich, a cake, and a drink). 
 
 ![Virgin Trains First Class interior]({{ site.url }}/images/uk/rail/Virgin_Trains_first_class_interior.jpg)
-*Virgin Trains First Class interior [[Image credit](https://commons.wikimedia.org/wiki/File:Virgin_Trains_East_Coast_coach_11999.jpg)]*
+*Virgin Trains First Class interior [[Image by Andrew Rabbott](https://commons.wikimedia.org/wiki/File:Virgin_Trains_East_Coast_coach_11999.jpg)]*
 
 First Class of South Western was just ok. I found it at the end of the last car of the train en route from Salisbury to London. Seats were big and comfortable enough, but add-ons were nonexistent  (they advertise a free drink and a biscuit on selected trains only in the morning hours). WiFi is either available or not for all passengers, regardless of the class. 
 
 ![South Western First Class interior]({{ site.url }}/images/uk/rail/SW_First_Class_Interior.jpg)
-*South Western First Class interior [[Image credit](https://commons.wikimedia.org/wiki/File:444013_First_Class_Interior.jpg)]*
+*South Western First Class interior [[Image by Peter Skuce](https://commons.wikimedia.org/wiki/File:444013_First_Class_Interior.jpg)]*
 
 West Midlands Railway (former London Midland) provided the most underwhelming experience. I had been waiting for this train on the barren platform of Lichfield Trent Valley station. It was a freezing January night and I was looking forward to a relief in the ambiance of a First Class. What I found was a pass-through compartment in the middle of the train that looked and felt a Standard class: same seats, no add-ons. The only benefit of that First Class seating that I could conceive of was that this section was less crowded. 
 
 ![West Midlands First Class interior]({{ site.url }}/images/uk/rail/west_midlands_First_Class_Interior.JPG)
-*West Midlands First Class interior [[Image credit](https://commons.wikimedia.org/wiki/File:350243_x_TCO_Vehicle_First_Class_Interior.JPG)]*
+*West Midlands First Class interior [[Image by Peter Skuce](https://commons.wikimedia.org/wiki/File:350243_x_TCO_Vehicle_First_Class_Interior.JPG)]*
 
 Note that many local trains do not offer First Class seating. 
 
@@ -112,7 +112,7 @@ As you can see, London North Eastern Railway (former Virgin Trains East Coast), 
 
 My personal statistics is taken across 13 train operators whose services I have used. It appears that exactly 10% of the journeys have failed to complete within 10 minutes of the scheduled arrival. The worst non-disruptive delay I experienced was about thirty minutes (southbound Virgin East Coast, of course). This is why I advise allowing at least half an hour for a connection involving a long distance train even if your trip on that train will be short. 
 
-By "non-disruptive" I mean that the railway, in general, is maintaining normal operation. Once a suspicious item had been found at Canterbury East station, and my train was terminated on an intermediate station. I was diverted on to a long uninspiring tour over Kent missing my appointment in Canterbury. You cannot plan for such incidents. This is the subject of your Disaster Recovery protocols rather than the normal schedule.
+By "non-disruptive" I mean that the railway, in general, is maintaining normal operation. Once a suspicious item had been found at Canterbury East station, and my train was terminated on an intermediate stop. I was diverted on to a long uninspiring tour over Kent missing my appointment in Canterbury. You cannot plan for such incidents. This is the subject of your Disaster Recovery protocols rather than the normal schedule.
 
 Time and length of travel
 -------------------------
@@ -127,7 +127,7 @@ Avoid trains serving large sport events or festivals.
 
 If you get unlucky with the train timing, the experience can turn really awful. I have seen people having trouble to squeeze themselves into a train, let alone finding a seat. As a visitor, you can afford more flexibile schedule than resident commuters, so plan your rides accordingly.
 
-It is unlikely that even your longest journey takes more than four and a half hours. For your reference, I've made a map which shows travel times from London to other cities by fastest train.
+It is unlikely that even your longest journey takes more than four and a half hours. For your reference, I've made a map which shows travel times from London to other cities by fastest trains.
 
 ![Travel times map]({{ site.url }}/images/uk/rail/travel_times_map.png)
 *Travel times from London by fastest trains*
@@ -136,4 +136,4 @@ Just for the fun of the thing, the longest direct service I could find is Penzan
 
 There are also two sleeper trains from London, one going to Penzance and the other fanning out to several destinations in Scotland. You could take these for the sake of the experience and save on a hotel. The same destinations are reachable within the daylight hours in a shorter time frame. 
 
-*To be continued with ["Understanding train tickets]"({{ site.url }}/Understanding-Train-Tickets/). Stay tuned!*
+*Next chapter: ["Understanding train tickets"]({{ site.url }}/Understanding-Train-Tickets/).*
