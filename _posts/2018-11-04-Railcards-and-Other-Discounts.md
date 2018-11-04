@@ -1,12 +1,12 @@
 ---
 layout: post
-title: British railways. Getting a discount: railcards, children, groups, buses
+title: "British railways. Getting a discount: railcards, children, groups, buses"
 category: UK
 tags: [railway, train, ticket, railcard, child ticket, groupsave]
 ---
 
 
-*This is an anex to ["Understanding train tickets"]({{ site.url }}/Understanding-Train-Tickets/)*, a part of ["British railways. Visitor's manual"]({{ site.url }}/british_railways)*
+*This is an anex to ["Understanding train tickets"]({{ site.url }}/Understanding-Train-Tickets/), a part of ["British railways. Visitor's manual"]({{ site.url }}/british_railways)*
 
 
 ## Railcards
@@ -37,7 +37,7 @@ For example, if you travel as a couple and don't take peak trains, you are eligi
 | [Network](https://www.network-railcard.co.uk/using-your-railcard/discounts-on-tickets/) | be adult (16+). You may take up to 3 adults and up to 4 children aged 5-15 with you - they'll get the discount too | Valid in [London and South East area](https://www.network-railcard.co.uk/clientfiles/files/Map.pdf) only / Travel after 10:00 Mo-Fr, all day Sa, Su / The minimum discounted adult fare payable is £13 on all journeys Mo-Fr / Cannot be used with Advance tickets / Cannot be used in First Class | 96 (if traveling alone)<br>50 (for 2 adults + 0 children group)<br>32 (for 1+1 group)<br>18 (for 2+2 group) |
 {:.mytablestyle}
 
-<sup><b id="f1">1</b></sup> See [London and South East area map](https://www.network-railcard.co.uk/clientfiles/files/Map.pdf). Definition of peak time varies by route; use National Rail journey planner to ensure that the railcard can be used on a specific train. [↩](#a1) [↩](#a2)
+<b id="f1"><sup>1</sup></b> See [London and South East area map](https://www.network-railcard.co.uk/clientfiles/files/Map.pdf). Definition of peak time varies by route; use National Rail journey planner to ensure that the railcard can be used on a specific train. [↩](#a1) [↩](#a2)
 
 You can buy a railcard at any railway station that has a ticket office. You will have to:
 
@@ -129,7 +129,7 @@ PlusBus is a day ticket entitling you to unlimited rides on buses (or trams) acr
 
 For example, if you are in London and going to visit Ely and Cambridge, you have two options with train tickets. You may buy either a Return ticket to Ely and break your journey in Cambridge, or you may buy two Return tickets, one London to Cambridge and the other Cambridge to Ely. From the railway's point of view, both choices are equally valid. However, if you want to take buses in Cambridge, only the latter option can get you a PlusBus ticket for Cambridge. With the first option, Cambridge is not shown on your train ticket as the origin or the destination.
 
-[!PlusBus ticket]({{ site.url }}/images/uk/rail/PlusBus_ticket.png)
+![PlusBus ticket]({{ site.url }}/images/uk/rail/PlusBus_ticket.png)
 *Example of PlusBus ticket*
 
 There are a few more catches:
