@@ -20,7 +20,8 @@ collections_dir: collections
 collections:
   british_railways:
     output: true
-    permalink: /:collection/:name/
+    permalink: british_railways
+#    permalink: /:collection/:name/
 
 defaults:
   - scope:
