@@ -1,6 +1,5 @@
 ---
 title: British railways. Visitor's manual
-permalink: /british_railways
 order: 1
 tags: [railway, train]
 ---
