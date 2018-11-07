@@ -15,6 +15,24 @@ avatar: /images/1000li_logo_140x140.png
 # Flags below are optional
 #
 
+collections_dir: collections
+
+collections:
+  british_railways:
+    output: true
+    permalink: /:collection/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "british_railways"
+    values:
+      layout: chapter
+      country: UK
+      region: UK
+      category: infrastructure
+      
+      
 plugins:
   - jekyll-feed
 
