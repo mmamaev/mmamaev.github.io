@@ -21,7 +21,6 @@ collections:
   british_railways:
     output: true
     permalink: /british_railways/:path
-#    permalink: /:collection/:name/
 
 defaults:
   - scope:

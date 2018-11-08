@@ -134,4 +134,4 @@ Just for the fun of the thing, the longest direct service I could find is Aberde
 
 There are also two sleeper trains from London, one going to Penzance and the other fanning out to several destinations in Scotland. You could take these for the sake of the experience and save on a hotel. The same destinations are reachable within the daylight hours in a shorter time frame. 
 
-*Next chapter: ["Understanding train tickets"]({{ site.url }}/Understanding-Train-Tickets/).*
+*Next chapter: ["Understanding train tickets"]({{ site.url }}/ {{ page.collection }}/Understanding-Train-Tickets).*
