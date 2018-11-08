@@ -6,7 +6,7 @@ tags: [railway, train, ticket, Advance, Anytime, Off-Peak, Single, Return, seat 
 
 ![]({{ site.url }}/images/uk/rail/tickets_on_table1.jpg)
 
-*This is the second part of ["British railways. Visitor's manual"]({{ site.url }}/british_railways)*
+*This is the second part of ["British railways. Visitor's manual"]({{ site.url }}/{{ page.collection }})*
 
 When dealing with National Rail, the most important and tricky business is getting the right ticket at the cheapest possible price. 
 
@@ -141,9 +141,9 @@ The return coupon of an Off-Peak Return ticket showing the 31 day period of vali
 | Anytime Single  or Anytime Day Single | Yes | Yes | __Any__ train on any permitted route on the day shown on the ticket | This is a one-way ticket |
 | Anytime Return  or Anytime Short Return | Yes | Yes | __Any__ train on any permitted route on the day shown on the ticket | Within __one month__ from the date of the outward journey |
 | Anytime Day Return | Yes | Yes | __Any__ train on any permitted route on the day shown on the ticket | On the __same day__ when you make the outward journey |
-| (Super) Off-Peak Single | Yes | Yes | Any __off-peak__ train conforming to the restriction code, on any permitted route on the day shown on the ticket | This is a one-way ticket |
-| (Super) Off-Peak Return | Yes | Yes | Any __off-peak__ train conforming to the restriction code, on any permitted route on the day shown on the ticket | Within __one month__ from the date of the outward journey, conforming off-peak trains only |
-| (Super) Off-Peak Day Return | Yes | Yes | Any __off-peak__ train conforming to the restriction code, on any permitted route on the day shown on the ticket | On the __same day__ when you make the outward journey, conforming off-peak trains only |
+| (Super) Off-Peak Single | Yes | Yes | Any __off-peak__ train conforming to the restriction code, on any permitted route, on the day shown on the ticket | This is a one-way ticket |
+| (Super) Off-Peak Return | Yes | Yes | Any __off-peak__ train conforming to the restriction code, on any permitted route, on the day shown on the ticket | Within __one month__ from the date of the outward journey |
+| (Super) Off-Peak Day Return | Yes | Yes | Any __off-peak__ train conforming to the restriction code, on any permitted route, on the day shown on the ticket | On the __same day__ when you make the outward journey |
 {:.mytablestyle}
 
 The fine print:
@@ -216,4 +216,4 @@ If we skipped the cheapest journey (Bath) and instead headed for Exeter (£29.60
 
 I am not saying that Rover tickets never make sense. If your routes fan out from one base for several days or, preferably, if you're making a one-way cyclic tour through an area, it may be worth to check Rover tickets available for this area. However, I'd suggest that in most cases Rover tickets are not economically viable.
 
-*Next chapter: ["Getting a discount: railcards, children, groups, buses"]({{ site.url }}/Railcards-and-Other-Discounts/).*
+*Next chapter: ["Getting a discount: railcards, children, groups, buses"]({{ site.url }}/{{ page.collection }}/Railcards-and-Other-Discounts).*

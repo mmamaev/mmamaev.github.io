@@ -6,6 +6,8 @@ tags: [railway, train]
 
 ![]({{ site.url }}/images/uk/rail/Train_on_Durham_viaduct.jpg)
 
+*This is the first part of ["British railways. Visitor's manual"]({{ site.url }}/{{ page.collection }})*
+
 Taking a train is the most efficient and convenient way of traveling across Great Britain. Although residents of the island constantly rumble at the trains being outdated and crowded, and everyone agrees that the tickets are a rip-off, as a visitor, you've got a different angle of view. Your alternatives are either more expensive, or slower, or both. But unlike the commuters, you don't have to spend thousands of pounds on an annual ticket and then ride overcrowded rush-hour trains. You will make your journeys (mostly) pleasant and relatively cheap if you plan them well ahead and understand how the system works. This series of posts will help you with that.
 
 I don't live in the UK but each time I visit the country I catch a train and go to places which I haven't seen yet. So far I've logged 85 rides along 29 different railway lines, from Exeter to Newcastle. On one particularly loaded day in January 2017, I managed to make eight journeys, although two of them being the result of catching a wrong train. 
@@ -134,4 +136,4 @@ Just for the fun of the thing, the longest direct service I could find is Aberde
 
 There are also two sleeper trains from London, one going to Penzance and the other fanning out to several destinations in Scotland. You could take these for the sake of the experience and save on a hotel. The same destinations are reachable within the daylight hours in a shorter time frame. 
 
-*Next chapter: ["Understanding train tickets"]({{ site.url }}/ {{ page.collection }}/Understanding-Train-Tickets).*
+*Next chapter: ["Understanding train tickets"]({{ site.url }}/{{ page.collection }}/Understanding-Train-Tickets).*

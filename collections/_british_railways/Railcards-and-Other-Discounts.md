@@ -5,7 +5,7 @@ tags: [railway, train, ticket, railcard, child ticket, groupsave]
 ---
 
 
-*This is an anex to ["Understanding train tickets"]({{ site.url }}/Understanding-Train-Tickets/), a part of ["British railways. Visitor's manual"]({{ site.url }}/british_railways)*
+*This is an anex to ["Understanding train tickets"]({{ site.url }}/{{ page.collection }}/Understanding-Train-Tickets), a part of ["British railways. Visitor's manual"]({{ site.url }}/{{ page.collection }})*
 
 
 ## Railcards
