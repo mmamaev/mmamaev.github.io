@@ -3,16 +3,23 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for topic in site.collections %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a></h1>
+      <h3>{{ topic.tagline }}</h3>
 
       <div class="entry">
-        {{ post.excerpt }}
+        <img source="{{ site.baseurl }}{{ topic.image }}">
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <ul>
+        {% for chapter in topic | sort: 'order' %}
+        <li>
+           <a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
     </article>
   {% endfor %}
 </div>

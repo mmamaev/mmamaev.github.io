@@ -21,6 +21,12 @@ collections:
   british_railways:
     output: true
     permalink: /british_railways/:path
+    country: UK
+    region: UK
+    category: infrastructure
+    title: "British railways. Visitor's manual"
+    image: /images/uk/rail/Train_on_Durham_viaduct.jpg
+    tagline: "How to plan your train rides, make them cheap, and, finally, make them"
 
 defaults:
   - scope:
@@ -28,9 +34,7 @@ defaults:
       type: "british_railways"
     values:
       layout: chapter
-      country: UK
-      region: UK
-      category: infrastructure
+
       
       
 plugins:
