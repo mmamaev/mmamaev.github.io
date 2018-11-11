@@ -27,6 +27,7 @@ collections:
     title: "British railways. Visitor's manual"
     image: /images/uk/rail/Train_on_Durham_viaduct.jpg
     tagline: "How to plan your train rides, make them cheap, and, finally, make them"
+    featured: true
 
 defaults:
   - scope:
