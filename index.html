@@ -6,17 +6,17 @@ layout: default
   {% for topic in site.collections %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a></h1>
-      <h3>{{ topic.tagline }}</h3>
+      <h2><a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a></h2>
+      <h4>{{ topic.tagline }}</h4>
 
       <div class="entry">
-        <img source="{{ site.baseurl }}{{ topic.image }}">
+        <img src="{{ site.baseurl }}{{ topic.image }}">
       </div>
 
       <ul>
         {% for chapter in topic | sort: 'order' %}
         <li>
-           <a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a>
+           <a href="{{ site.baseurl }}{{ chapter.url }}">{{ chapter.title }}</a>
         </li>
         {% endfor %}
       </ul>
