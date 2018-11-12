@@ -1,5 +1,5 @@
 ---
-title: "British railways. Getting a discount: railcards, children, groups, buses"
+title: "Getting a discount: railcards, children, groups, buses"
 order: 3
 tags: [railway, train, ticket, railcard, child ticket, groupsave]
 ---

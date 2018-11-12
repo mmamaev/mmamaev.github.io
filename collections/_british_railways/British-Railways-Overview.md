@@ -1,5 +1,5 @@
 ---
-title: British railways. Visitor's manual
+title: British railways overview
 order: 1
 tags: [railway, train]
 ---
@@ -14,6 +14,7 @@ I don't live in the UK but each time I visit the country I catch a train and go 
 
 With this kind of experience, I've got many tips and tricks to share. In this post, we'll begin with a practical overview of the British railway system in general. Then we will [untangle the lore of ticketing]({{ site.url }}/Understanding-Train-Tickets/) - this knowledge will be your money saver. Next comes the art of planning - you'll learn how to save even more. Finally, we'll be going for a ride, and there are a few catches you might want to know as well.
 
+_Note. Examples in this manual are based on real ticket prices. These prices were valid at the moment of writing (October-November 2018). When you are reading this, particular numbers might have changed. However, the general principles should hold._
 
 
 National Rail network

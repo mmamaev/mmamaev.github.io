@@ -1,5 +1,5 @@
 ---
-title: British railways. Understanding train tickets
+title: Understanding train tickets
 order: 2
 tags: [railway, train, ticket, Advance, Anytime, Off-Peak, Single, Return, seat reservation, Rover]
 ---
@@ -210,9 +210,9 @@ The problem with Rover tickets is purely economical. I failed to find a Rover ti
 
 For example, assume that you are based in Bristol. Nearby places of interest reachable by train are Bath, Salisbury, Gloucester, Worcester, and Exeter. The first four are within the area of ["Freedom of Severn & Solent 3 in 7 Day Rover"](http://www.nationalrail.co.uk/times_fares/pr8bb6ac0a0400040155984b49bbe4b3.aspx) ticket priced £59. All five are covered by ["Freedom of the South West 3 in 7 Day Rover"](http://www.nationalrail.co.uk/times_fares/pr0f61f9c35ce741009c0e3842403e09.aspx) ticket priced £102.60.
 
-With the first Rover ticket we can do Gloucester and Worcester in day 1, Bath in day 2 and Salisbury in day 3. However, if we bought separate  Off-Peak Day Return tickets we'd pay 14.00 for Worcester (making an allowed break of journey in Gloucester),  7.90 for Bath Spa, and 23.00 for Salisbury, spending £44.90 in total. This is 14 pounds (24%) less than the price of the Rover ticket.
+With the first Rover ticket we can do Gloucester and Worcester in day 1, Bath in day 2 and Salisbury in day 3. However, if we bought separate  Off-Peak Day Return tickets we'd pay £14.00 for Worcester (making an allowed break of journey in Gloucester),  £7.90 for Bath Spa, and £23.00 for Salisbury, spending £44.90 in total. This is 14 pounds (24%) less than the price of the Rover ticket.
 
-If we skipped the cheapest journey (Bath) and instead headed for Exeter (£29.60 for Off-Peak Return) we'd spend 66.60. Yet to include Exeter we'd need the Rover ticket that costs 102.60.
+If we skipped the cheapest journey (Bath) and instead headed for Exeter (£29.60 for Off-Peak Return) we'd spend £66.60. Yet to include Exeter we'd need the Rover ticket that costs £102.60.
 
 I am not saying that Rover tickets never make sense. If your routes fan out from one base for several days or, preferably, if you're making a one-way cyclic tour through an area, it may be worth to check Rover tickets available for this area. However, I'd suggest that in most cases Rover tickets are not economically viable.
 
