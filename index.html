@@ -14,7 +14,7 @@ layout: default
       </div>
 
       <ul>
-        {% for chapter in site.collections.british_railways | sort: 'order' %}
+        {% for chapter in site.british_railways | sort: 'order' %}
         <li>
            <a href="{{ site.baseurl }}{{ chapter.url }}">{{ chapter.title }}</a>
         </li>
