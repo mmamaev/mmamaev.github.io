@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for topic in site.collections | where: 'featured', 'true' %}
+  {% for topic in site.collections | where: "featured", "true" %}
     <article class="post">
 
       <h2><a href="{{ site.baseurl }}{{ topic.url }}">{{ topic.title }}</a></h2>
@@ -14,7 +14,7 @@ layout: default
       </div>
 
       <ul>
-        {% for chapter in site.british_railways | sort: 'order' %}
+        {% for chapter in site.british_railways | sort: "order" %}
         <li>
            <a href="{{ site.baseurl }}{{ chapter.url }}">{{ chapter.title }}</a>
         </li>
