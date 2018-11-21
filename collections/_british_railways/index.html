@@ -3,23 +3,30 @@ layout: default
 ---
 
 <div class="posts">
-    <article class="post">
 
-      <h2><a href="{{ site.url }}/british_railways">British railways. Visitor's manual</a></h2>
+      <h2><a href="{{ site.url }}/british_railways/British-Railways-Overview">British railways. Visitor's manual</a></h2>
       <h4>How to plan your train rides, make them cheap, and, finally, make them</h4>
 
+      {% comment %}
       <div class="entry">
         <img src="{{ site.url }}/images/uk/rail/Train_on_Durham_viaduct.jpg">
       </div>
+      {% endcomment %}
 
       <ul>
+        {% comment %} 
         {% for chapter in site.british_railways | sort: "order" %}
         <li>
            <a href="{{ site.baseurl }}{{ chapter.url }}">{{ chapter.title }}</a>
         </li>
         {% endfor %}
-        <li><em>to be continued</em></li>
+        {% endcomment %}
+        <li><a href="{{ site.url }}/british_railways/British-Railways-Overview">British railways overview</a></li>
+        <li><a href="{{ site.url }}/british_railways/Understanding-Train-Tickets">Understanding train tickets</a></li>
+        <li><a href="{{ site.url }}/british_railways/Railcards-and-Other-Discounts">Getting a discount: railcards, children, groups, buses</a></li>
+        <li> <em>to be continued</em></li>
       </ul>
+      
     </article>
 
 </div>
