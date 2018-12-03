@@ -1,12 +1,12 @@
 ---
-title: British railways. Planning a journey, buying tickets
+title: "Planning a journey, buying tickets"
 order: 4
 tags: [railway, train, ticket, journey planner, journey break, split ticket, traveling short]
 ---
 
 ![]({{ site.url }}/images/uk/rail/tickets_on_table1.jpg)
 
-*This is the fourth part of ["British railways. Visitor's manual"]({{ site.url }}/british_railways)*
+*This is the fourth part of ["British railways. Visitor's manual"]({{ site.url }}/{{ page.collection }})*
 
 ## The National Rail journey planner
 
@@ -18,7 +18,7 @@ On the planner's homepage, enter the origin and destination stations of your jou
 
 Enter the date(s) and the time of travel. Check "Return" if you are planning a round trip.
 
-By default, the planner looks for tickets for "1 Adult | No child | No railcard". To change this, click a small drop-down control box. It opens the search options panel. 
+By default, the planner looks for tickets for "1 Adult \| No child \| No railcard". To change this, click a small drop-down control box. It opens the search options panel. 
 
 Let's plan a round trip from London Paddington to Worcester with two adults and two children traveling.
 
@@ -26,7 +26,7 @@ Let's plan a round trip from London Paddington to Worcester with two adults and 
 
 After you've clicked "Go", the planner will offer several itineraries for the outward and (scroll down) return journeys. It will automatically pre-select and highlight the cheapest itinerary. In our example, the cheapest itinerary consists of the 11:22 service to Worcester and the 16:01 return train. The price is £135.85.
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_2.png)
+![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_2.PNG)
 
 If you are planning a round trip, you'll see two tabs on the top of the price column: "Return from ..." and "2 Singles from ...". This is because, for any round trip, there are two options: either you buy one return ticket or two one-way tickets (Singles). The planner checks both of the alternatives and highlights the cheapest.
 
@@ -36,7 +36,7 @@ The price shown for a specific itinerary is the lowest ticket price among all av
 
 For each itinerary, under the price tag you can find the basic type of the ticket (Anytime, Off-Peak or Advance) whose price is shown. If you hover the mouse over the ticket type, you'll see its full specification and the route restriction.
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_3.png)
+![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_3.PNG)
 
 In our example, the selected Off-Peak ticket is actually a Super Off-Peak Return. It has the route restriction that requires you travel via Evesham. 
 
@@ -45,7 +45,7 @@ In our example, the selected Off-Peak ticket is actually a Super Off-Peak Return
 
 To find out what other trains conform to this restriction, click on "Other services you can travel on". 
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_4.png)
+![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_4.PNG)
 
 You'll see that you won't be permitted to take the 11:36 service. This train goes to Gloucester (where you would have to connect to another train for Worcester) and, consequently, avoids Evesham. If you hover over that itinerary, you'll see that it is routed "EVESHAM/STROUD" meaning that you can go via either Evesham or Stroud. Therefore, this more expensive ticket will be valid on both the 11:22 and 11:36 services (and on many others).
 
@@ -59,11 +59,11 @@ But most importantly, this is the place where you can find out what company oper
 
 On the screenshot below, there are the details for the 11:36 service with connection in Gloucester. The list of calling points (intermediate stops) is shown for the second train but collapsed for the first. Both trains are operated by Great Western. The first one goes from London to Cheltenham Spa via Gloucester, and the second one is Brighton to Great Malvern service via Gloucester and Worcester.
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_5.png)  
+![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_5.PNG)  
 
 For each itinerary, clicking on "Other tickets" will do two things. 
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_6.png)
+![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_6.PNG)
 
 In the left panel, you get the breakdown of the selected ticket's price. In our example, one of the children has been reclassified as an adult thus allowing the application of Groupsave discount. With Groupsave, you pay only two fares for three traveling persons while without Groupsave you pay 2.5 fares for two adults and one child. The planner automatically finds the cheapest combination of fares, even as peculiar as this one. The other child is given the 50% discount, as it normally happens. 
 
@@ -111,7 +111,7 @@ I assume you are familiar with the ticket types and discounts which we discussed
 
 In this section, we will take one step further and look into a few planning tricks that allow you cutting your ticket costs even more.
 
-For the sake of simplicity, we will be planning journeys with the default setting "1 Adult | No child | No railcard".
+For the sake of simplicity, we will be planning journeys with the default setting "1 Adult \| No child \| No railcard".
 
 
 ### Station groups
@@ -124,7 +124,7 @@ There are two railway stations in Canterbury: Canterbury East and Canterbury Wes
 
 If you are searching for trains from "London (All stations)" to "Canterbury (All stations)", the planner will show you three routes by direct trains: London Victoria to Canterbury East, London Charing Cross to Canterbury West, and  London St Pancras International to Canterbury West. 
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_station_groups.png)
+![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_station_groups.PNG)
 
 The latter option is more expensive but faster, and if you hover the mouse over the ticket's type, you'll see why. The route restriction for the first two options reads "NOT VALID ON HS1", yet for the St Pancras train it is "PLUS HIGH SPEED". Trains departing from St Pancras use the high-speed Eurostar route ("HS1" stands for [High Speed One railway](https://en.wikipedia.org/wiki/High_Speed_1)), and thus are more expensive. Click on "Other services you can travel on" to make sure when a certain ticket is valid.
 
@@ -168,7 +168,7 @@ For longer tours, where Advance tickets are offered for all segments, a set of A
 For example, on your way from London to Edinburgh you are going to pay a short visit to Peterborough, and on your way back you will stay overnight in Durham, York, and Lincoln. The entire tour can be done with one return ticket from London to Edinburgh. The cheapest of such tickets - Super Off-Peak Return - is sold for £142.90. Yet the set of six Advance tickets, one per each leg of the tour, will come at the price of £68.20. 
 
 
-#### Journey break with Advance ticket
+### Journey break with Advance ticket
 
 Advance tickets don't allow journey breaks. However, you can bypass this restriction if you want to break your journey at the station where your Advance ticket requires you to change trains. 
 
@@ -252,7 +252,7 @@ Some combinations of split tickets are cheap but others can turn out to be more 
 
 Suppose you're going from A to B with a connection at X. The A to X segment is a local line. At X you are taking a main line and there are frequent services from X toward B. 
 
-The journey planner will automatically connect your A->X train to the earliest possible X->B service in order to minimize the total duration of the journey, subject to the minimum connection time at X. However, it may happen that this time-optimal train is not the cheapest option but a train departing a few minutes later is. 
+The journey planner will automatically connect your A&rarr;X train to the earliest possible X&rarr;B service in order to minimize the total duration of the journey, subject to the minimum connection time at X. However, it may happen that this time-optimal train is not the cheapest option but a train departing a few minutes later is. 
 
 If you could tell the planner to extend the stopover at X just for a few minutes, you would give the cheaper train a chance to step in and offer you a much better fare.
 
@@ -344,3 +344,5 @@ But in most cases your order is smoothly transferred to the train company. There
  - The bank card that you use for making the payment will be needed for collecting the tickets from the self-service machine. Make sure that you will have this card with you at the station.
 
 <b id="f1"><sup>\*</sup></b> Some train companies have recently introduced electronic tickets that you can print at home but their adoption is not widespread. To be on the safe side, I recommend the old school way: print the tickets from the station machine.
+
+*To be concluded with "Taking a train". Stay tuned!*
