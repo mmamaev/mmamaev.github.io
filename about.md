@@ -22,9 +22,7 @@ I give systematic reviews of travel-related infrastructures and facilities. You 
 
 I also write about attracttions themselves when there is something you should know in order to get to (or through) the attraction or better understand it.
 
-I try to get my posts organized, informed, and comprehensive. Random impressions do not guide my writing. I write about places (countries) that I've had a lot of experience with.
-
-The posts are published weekly, on Sundays.
+I try to get my articles organized, informed, and comprehensive. Random impressions do not guide my writing. I write about places (countries) that I've had a lot of experience with.
 
 
 ### Contact me

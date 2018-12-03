@@ -39,16 +39,18 @@ Advance tickets become available in 8-10 weeks before the date of travel. They m
 
 The prices of Advance tickets for the same route and the date of travel may vary. They depend on the time of date (off-peak trains are cheaper), on the train operator and on how much in advance you buy them: the earlier the cheaper. However, don't go too far: once I bought advance tickets in 6 weeks, but in a month before my trip the train company announced a ticket sale cutting prices in half. Also, if you try really early, it may happen that Advance tickets are not yet on sale but walk-up tickets are. This may draw you to a wrong conclusion that Advance tickets have already sold out.
 
-The full terms and conditions of Advance tickets can be found on National Rail site (http://www.nationalrail.co.uk/times_fares/ticket_types/46546.aspx).
+The full terms and conditions of Advance tickets can be found on [National Rail site](http://www.nationalrail.co.uk/times_fares/ticket_types/46546.aspx).
 
 
 ### Walk-up tickets
 
 Walk-up tickets come in two flavors: Anytime and Off-Peak. The choice between these is defined by the time of the day when you are traveling - we'll get to the details shortly. 
 
-A walk-up ticket can be either one-way (this is called "Single") or round-trip (this is called "Return"). In other words, the ticket entitles you to either one ("outward") or two ("outward" and "return") journeys between two stations. Yet unlike Advance tickets, a walk-up ticket does not require you to take a particular train or even a particular route.
+A walk-up ticket can be either one-way (this is called "Single") or round-trip (this is called "Return"). In other words, a walk-up ticket entitles you to either one ("outward") or two ("outward" and "return") journeys between two stations - the origin and the destination - printed on the ticket. 
 
-You can go by any reasonable route between the origin and the destination specified on the ticket. The exact definition of "reasonable" can be looked up in a directory called ["Routeing Guide"](http://data.atoc.org/routeing-guide) which is not particularly user-friendly. But in most cases, your common sense and a look on a map should be enough. 
+Unlike Advance tickets, a walk-up ticket does not require you to take a particular train or even a particular route.
+
+You can go by any reasonable route between the origin and the destination. The exact definition of "reasonable" for each pair of station can be looked up in a directory called ["Routeing Guide"](http://data.atoc.org/routeing-guide), which is not particularly user-friendly. But in most cases, your common sense and a look on a map should be enough. 
 
 Your return route, if any, need not be the same as the outward route. 
 
@@ -56,7 +58,13 @@ You can take any train and change trains if needed provided that your rides fall
 
 Moreover, you may leave the train on any intermediate station and resume your journey later - this is called "journey break". You can make as many journey breaks as you like, both during the outward and the return journeys, just make sure that your ticket stays valid time-wise.
 
-Sometimes a walk-up ticket may, nevertheless, limit your choice of the route or the train operator. It happens when one route/service is much faster than the others (we'll see the examples later). The route restriction will be shown on the ticket with wording like "Also valid / not valid on ... ". Alternatively, it can be printed after "ROUTE" keyword, for example: "ROUTE SOUTHERN ONLY". If there is no restriction, "ROUTE ANY PERMITTED" is printed or ROUTE is not mentioned at all. 
+Sometimes a walk-up ticket may, nevertheless, limit your choice of the route or the train operator. It happens when one route/service is much faster than the others or when different routes are served by different train companies who cannot agree on a unified fare. The route restriction will be shown on the ticket with wording like "Also valid / not valid on ... ". Alternatively, it can be printed after "ROUTE" keyword, for example: 
+- ROUTE LNER ONLY - you have to ride only on trains operated by London North Eastern Railway
+- ROUTE VIA BIRMINGHAM - on your way from the origin to the destination you have to pass Birmingham
+- ROUTE EVESHAM/STROUD - on your way from the origin to the destination you have to pass **either** Evesham or Stroud
+- ROUTE WARMSTER-SALSBRY - on your way from the origin to the destination you have to pass **both** Warminster and Salisbury
+
+If there is no restriction, "ROUTE ANY PERMITTED" is printed or ROUTE is not mentioned at all. 
 
 A walk-up ticket can be bought at any moment up to the train's departure. The supply of walk-up tickets is unlimited. They are changeable and refundable. You can also buy a walk-up ticket in advance rather than on the day of travel; it makes sense if you expect long queues at your origin station or will be short of time before train's departure.
 
@@ -112,7 +120,7 @@ The second feature of a walk-up ticket indicates whether this is a one-way or a 
 - Day Return - this is a round-trip ticket. Both the outward and the return journeys must be made on the day of travel which is printed on the ticket. It is cheaper than Return.
 
 
-Don't be confused by the usage of the word "return". When it is applied to a ticket, it means that the ticket is valid both for the outward journey and for the return journey, so a return ticket is a round-trip ticket. If the word is capitalized, it refers to Return ticket type, valid for 30 days, as opposed to Day Return ticket valid for one day. 
+Don't be confused by the usage of the word "return". When it is applied to a ticket from A to B, it means that the ticket is valid both for the outward journey A->B and for the return journey B->A, so a return ticket is a round-trip ticket. If the word is capitalized, it refers to Return ticket type, valid for 30 days, as opposed to Day Return ticket valid for one day. 
 
 Whatever type of a return ticket you buy,  the ticket will be printed in two coupons labeled "Outward" (or "OUT") and "Return" (or "RTN"). Each coupon is effectively a one-way ticket which you will use on the appropriate part of your trip.  
 
@@ -173,7 +181,7 @@ You can see that there is six times difference between the most expensive ticket
 
 You can also note that traveling during peak times is twice more expensive than taking an off-peak train. 
 
-Finally, you can spot two Anytime fares, the other one being significantly cheaper.  There is no free lunch: the cheaper ticket will come out with restriction "ROUTE WAMSTER-SALSBRY" meaning that it is valid only on the slower train going via Salisbury and Warminster. The expensive Anytime ticket is also valid on this train as it is valid on ANY reasonable route between London and Bath.
+Finally, you can spot two Anytime fares, the other one being significantly cheaper.  There is no free lunch: the cheaper ticket will come out with restriction "ROUTE WAMSTER-SALSBRY" meaning that it is valid only on the slower train going via Salisbury and Warminster. The expensive Anytime ticket is also valid on this train as it is valid on any reasonable route between London and Bath ("ROUTE ANY PERMITTED").
 
 The next diagram shows the cheapest Single ticket option by the time of day, separately for Advance and walk-up tickets.
 
@@ -189,11 +197,17 @@ For shorter journeys Advance tickets are not sold (but stay tuned and you'll kno
 
 ## Seat reservations
 
-Longer distance trains offer seat reservations, even if your ride on such a train will be short. 
+There are three types of trains with regard to seat reservations:
 
-With Advance tickets, seat reservation is obligatory. The assigned seat will be indicated on the ticket.
+- The train offers reservations, and a specific seat is reserved. Usually, these are long-distance trains. If you require a reservation they will reserve the seat even if your ride on such a train will be short. 
+- The train offers reservations but a specific seat cannot be reserved. This is called "counted place" reservations. Seemingly meaningless from the practical point of view, it is used to bind an Advance ticket to a particular train. We will discuss the implications in the "Planning" chapter.
+- The train does not offer seat reservations. Local short-distance services are usually not reservable.
 
-If you are buying a walk-up ticket you may also reserve a seat. The seat will be reserved on a specific train of your choice but you are not obliged to travel on this train. Seat reservation does not limit the validity of your ticket to one train; you may instead travel on any other allowed train, thus leaving your reserved seat unclaimed. You may reserve a seat while buying a ticket, or later, in any ticket office. Seat reservation is done free of charge. With a walk-up ticket, a seat reservation comes in the form of a separate coupon.
+Note. There is also the fourth type, sleeper trains, which require a reservation for every ticket. They are out of the scope for now.
+
+With Advance tickets, seat reservation is obligatory if the train is reservable. The assigned seat will be indicated on the ticket, or "No specific seat" will be printed in the case of the counted place reservation.
+
+If you are buying a walk-up ticket you may request seat reservation as well. The seat will be assigned on a specific train of your choice if it's reservable. You are not obliged to travel on this train. Seat reservation does not limit the validity of your walk-up ticket to one train; you may instead travel on any other allowed train, thus leaving your reserved seat unclaimed. You may reserve a seat while buying a ticket, or later, in any ticket office. Seat reservation is done free of charge. With a walk-up ticket, a seat reservation comes in the form of a separate coupon.
 
 On the train, reserved seats are marked with paper flyers stuck into the tops of seats. Alternatively, some types of carriages provide the reservation information on an electronic display above the seat.
 
