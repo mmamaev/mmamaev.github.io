@@ -5,7 +5,7 @@ tags: [railway, train, ticket, railcard, child ticket, groupsave]
 ---
 
 
-*This is an anex to ["Understanding train tickets"]({{ site.url }}/{{ page.collection }}/Understanding-Train-Tickets), a part of ["British railways. Visitor's manual"]({{ site.url }}/{{ page.collection }})*
+*This is the third part of ["British railways. Visitor's manual"]({{ site.url }}/{{ page.collection }})*
 
 
 ## Railcards
@@ -142,4 +142,5 @@ You can find all the details about participating towns, covered areas, and ticke
 
 If you've obtained a discount on your train ticket because you have a railcard or travel with children, the same discount will be applied to the price of PlusBus.
 
-*To be continued with "Planning your trip". Stay tuned!*
+*Next chapter: ["Planning a journey, buying tickets"]({{ site.url }}/{{ page.collection }}/Planning-a-Journey).*
+
