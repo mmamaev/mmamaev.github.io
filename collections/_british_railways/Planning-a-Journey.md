@@ -4,7 +4,7 @@ order: 4
 tags: [railway, train, ticket, journey planner, journey break, split ticket, traveling short]
 ---
 
-![]({{ site.url }}/images/uk/rail/tickets_on_table1.jpg)
+![]({{ site.url }}/images/{{ page.collection }}/map_with_tools.jpg)
 
 *This is the fourth part of ["British railways. Visitor's manual"]({{ site.url }}/{{ page.collection }})*
 
@@ -22,11 +22,11 @@ By default, the planner looks for tickets for "1 Adult \| No child \| No railcar
 
 Let's plan a round trip from London Paddington to Worcester with two adults and two children traveling.
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_1.png)
+![Journey planner screenshot]({{ site.url }}/images/{{ page.collection }}/planner_screenshot_1.png)
 
 After you've clicked "Go", the planner will offer several itineraries for the outward and (scroll down) return journeys. It will automatically pre-select and highlight the cheapest itinerary. In our example, the cheapest itinerary consists of the 11:22 service to Worcester and the 16:01 return train. The price is £135.85.
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_2.PNG)
+![Journey planner screenshot]({{ site.url }}/images/{{ page.collection }}/planner_screenshot_2.png)
 
 If you are planning a round trip, you'll see two tabs on the top of the price column: "Return from ..." and "2 Singles from ...". This is because, for any round trip, there are two options: either you buy one return ticket or two one-way tickets (Singles). The planner checks both of the alternatives and highlights the cheapest.
 
@@ -36,16 +36,16 @@ The price shown for a specific itinerary is the lowest ticket price among all av
 
 For each itinerary, under the price tag you can find the basic type of the ticket (Anytime, Off-Peak or Advance) whose price is shown. If you hover the mouse over the ticket type, you'll see its full specification and the route restriction.
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_3.PNG)
+![Journey planner screenshot]({{ site.url }}/images/{{ page.collection }}/planner_screenshot_3.png)
 
 In our example, the selected Off-Peak ticket is actually a Super Off-Peak Return. It has the route restriction that requires you travel via Evesham. 
 
-![London to Worcester map]({{ site.url }}/images/british_rail/map_PAD-WOF_1.png)
+![London to Worcester map]({{ site.url }}/images/{{ page.collection }}/map_PAD-WOF_1.png)
 
 
 To find out what other trains conform to this restriction, click on "Other services you can travel on". 
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_4.PNG)
+![Journey planner screenshot]({{ site.url }}/images/{{ page.collection }}/planner_screenshot_4.png)
 
 You'll see that you won't be permitted to take the 11:36 service. This train goes to Gloucester (where you would have to connect to another train for Worcester) and, consequently, avoids Evesham. If you hover over that itinerary, you'll see that it is routed "EVESHAM/STROUD" meaning that you can go via either Evesham or Stroud. Therefore, this more expensive ticket will be valid on both the 11:22 and 11:36 services (and on many others).
 
@@ -59,11 +59,11 @@ But most importantly, this is the place where you can find out what company oper
 
 On the screenshot below, there are the details for the 11:36 service with connection in Gloucester. The list of calling points (intermediate stops) is shown for the second train but collapsed for the first. Both trains are operated by Great Western. The first one goes from London to Cheltenham Spa via Gloucester, and the second one is Brighton to Great Malvern service via Gloucester and Worcester.
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_5.PNG)  
+![Journey planner screenshot]({{ site.url }}/images/{{ page.collection }}/planner_screenshot_5.png)  
 
 For each itinerary, clicking on "Other tickets" will do two things. 
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_6.PNG)
+![Journey planner screenshot]({{ site.url }}/images/{{ page.collection }}/planner_screenshot_6.png)
 
 In the left panel, you get the breakdown of the selected ticket's price. In our example, one of the children has been reclassified as an adult thus allowing the application of Groupsave discount. With Groupsave, you pay only two fares for three traveling persons while without Groupsave you pay 2.5 fares for two adults and one child. The planner automatically finds the cheapest combination of fares, even as peculiar as this one. The other child is given the 50% discount, as it normally happens. 
 
@@ -124,7 +124,7 @@ There are two railway stations in Canterbury: Canterbury East and Canterbury Wes
 
 If you are searching for trains from "London (All stations)" to "Canterbury (All stations)", the planner will show you three routes by direct trains: London Victoria to Canterbury East, London Charing Cross to Canterbury West, and  London St Pancras International to Canterbury West. 
 
-![Journey planner screenshot]({{ site.url }}/images/british_rail/planner_screenshot_station_groups.PNG)
+![Journey planner screenshot]({{ site.url }}/images/{{ page.collection }}/planner_screenshot_station_groups.png)
 
 The latter option is more expensive but faster, and if you hover the mouse over the ticket's type, you'll see why. The route restriction for the first two options reads "NOT VALID ON HS1", yet for the St Pancras train it is "PLUS HIGH SPEED". Trains departing from St Pancras use the high-speed Eurostar route ("HS1" stands for [High Speed One railway](https://en.wikipedia.org/wiki/High_Speed_1)), and thus are more expensive. Click on "Other services you can travel on" to make sure when a certain ticket is valid.
 
@@ -155,7 +155,7 @@ You can make any number of breaks or even stay in intermediate towns overnight b
 
 You are in London and want to visit Rochester followed by Canterbury, and then return to London. Let's assume you'd like to ride on high-speed trains from/to London St Pancras International but the same approach applies to slower trains from Victoria or Charing Cross.
 
-![London - Rochester - Canterbury map]({{ site.url }}/images/british_rail/map_LON-Canterbury.png)
+![London - Rochester - Canterbury map]({{ site.url }}/images/{{ page.collection }}/map_LON-Canterbury.png)
 
 If you bought a set of three Single tickets (London - Rochester, Rochester - Canterbury, Canterbury - London), you would pay £65.30 for the cheapest walk-up tickets for off-peak trains. There are also Advance fares available for the first and the last legs - this way you'd pay £35.20 for the whole trip, and would be bound to the specific trains.
 
@@ -178,7 +178,7 @@ You are in London and want to visit Birmingham and Hereford, and after that you 
 
 There are several permitted routes from London to Hereford, and one of them goes via Birmingham. There is no through train on this route, so you'll have to make a connection in Birmingham. The Super Off-Peak Return to Hereford costs £78.90. With this ticket, you'll have no problems with breaking your journey in Birmingham but we'd like to make this trip cheaper.
 
-![London - Birmingham - Hereford map]({{ site.url }}/images/british_rail/map_LON-HFD.png)
+![London - Birmingham - Hereford map]({{ site.url }}/images/{{ page.collection }}/map_LON-HFD.png)
 
 Alternatively, you may start with an Advance ticket from London to Birmingham. You'll pay £8.00 for a seat on a fast and comfortable Virgin train if you buy well ahead and depart London after 10 AM. There are no Advance fares between Birmingham and Hereford, so your cheapest option is the Off-Peak Single for £17.40. To return to London you may take a direct train from Hereford to London Paddington for as low as £6.00 (Advance) if you are ok to depart at midday. The direct train, ironically, is not the fastest but it saves you the hassle of making the connection in Birmingham. The total cost of the tour sums up to £31.40. 
 
@@ -195,7 +195,7 @@ The ultimate confirmation of seat reservability you receive only on the last sta
 
 You are in London and want to pay a short visit to Gloucester followed by a stay in Worcester, and then return to London. The return will be covered by the £6.00 Advance ticket for the direct train from Worcester to London. We will now focus on the outward part.
 
-![London - Gloucester - Worcester map]({{ site.url }}/images/british_rail/map_PAD-WOF_2.png)
+![London - Gloucester - Worcester map]({{ site.url }}/images/{{ page.collection }}/map_PAD-WOF_2.png)
 
 This case looks similar to the previous one. A London - Gloucester Advance is £14.00, a Gloucester - Worcester Anytime Single is £13.30, but a London - Worcester Advance with the connection in Gloucester is only £6.00.
 
@@ -231,7 +231,7 @@ For example, you are going from Bristol to Edinburgh. You may take the 11:00 tra
 | Manchester Stations to Edinburgh       | 17.60 |
 {:.mytablestyle}
 
-![Bristol - Edinburgh split tickets diagram]({{ site.url }}/images/british_rail/map_BRI-EDB.png)
+![Bristol - Edinburgh split tickets diagram]({{ site.url }}/images/{{ page.collection }}/map_BRI-EDB.png)
 
 It is rather time-consuming to check all possible split points manually. There are a few specialized sites, like [TrainSplit](https://trainsplit.com/), who will do it for you. When they sell you a ticket, they retain a portion of your saving as their service fee. You can buy exactly the same tickets in the usual way via the National Rail journey planner without any fees. However, it is fair to compensate the specialized site for their effort. 
 
@@ -258,7 +258,7 @@ If you could tell the planner to extend the stopover at X just for a few minutes
 
 Let's look at an example. You're going from Hexham to York and have to change trains in Newcastle. You're planning to take the 9:57 train from Hexham which will bring you to Newcastle at 10:39. The minimum connection time for Newcastle station is 8 minutes. Therefore, any train leaving after 10:47 can be suitable for continuing your journey. There are trains departing Newcastle at 10:58, 11:02, 11:18, 11:29, and so on, all calling at York.
 
-![Hexham - York map]({{ site.url }}/images/british_rail/map_HEX-YRK.png)
+![Hexham - York map]({{ site.url }}/images/{{ page.collection }}/map_HEX-YRK.png)
 
 The planner will offer you the connection to the 10:58 train which is time-optimal. This train is operated by London North Eastern Railway (LNER). The price of the Advance ticket for the entire journey from Hexham to York involving this train is £22.
 
@@ -287,7 +287,7 @@ Cases involving Advance tickets are more interesting (and controversial). There 
 
 You are in London and going to visit Winchester and Salisbury. As these cities do not share a common route from London, the _Journey Break_ approach is ruled out. So you've decided to get three one-way tickets. Let's focus on London to Winchester journey.
 
-![London - Winchester - Salisbury map]({{ site.url }}/images/british_rail/map_LON-WIN-SAL.png)
+![London - Winchester - Salisbury map]({{ site.url }}/images/{{ page.collection }}/map_LON-WIN-SAL.png)
 
 If you're doing the search in a few days before the travel, you may find that Advance tickets to Winchester have been sold out, and there are only Anytime Singles for £36.30 (on off-peak trains). However, the train you'd like to take to Winchester continues to Southampton, and there are Advance tickets from London to Southampton Central for only £23.10. So, you can buy an Advance ticket to Southampton Central but leave the train earlier, at Winchester.
 
@@ -302,7 +302,7 @@ I should say that a couple of times I've ended short on Advance tickets not susp
 
 You are going one-way from Lincoln to Peterborough (presumably, as a part of a larger tour). An Off-Peak Single for this journey is priced at £16.30 and there is a direct train (a rail-bus, as a matter of fact) which you can take. You can also spot a £6.70 Advance ticket but under closer examination you'll notice that it requires you to go the other way to Newark and change trains there. Moreover, you may have to undertake a one-mile stroll between Newark Castle and Newark Northgate stations which are not connected to each other. 
 
-![Lincoln - Peterborough - Ely map]({{ site.url }}/images/british_rail/map_LIN-PBO-ELY.png)
+![Lincoln - Peterborough - Ely map]({{ site.url }}/images/{{ page.collection }}/map_LIN-PBO-ELY.png)
 
 You'd prefer to get an Advance ticket for the direct service but they are not offered. The train terminates in Peterborough, so ending short on this train is apparently not an option. 
 
