@@ -1,10 +1,7 @@
 ---
 title: We are on the air
-permalink: "/news/:title/"
 excerpt_separator: <!--more-->
 ---
-
-![]({{ site.url }}/images/british_railways/Train_on_Durham_viaduct.jpg)
 
 Hello, world! 
 

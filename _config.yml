@@ -28,6 +28,9 @@ collections:
     image: /images/uk/rail/Train_on_Durham_viaduct.jpg
     tagline: "How to plan your train rides, make them cheap, and, finally, make them"
     featured: true
+    
+  posts:
+    permalink: "/posts/:title/"
 
 defaults:
   - scope:
@@ -35,6 +38,11 @@ defaults:
       type: "british_railways"
     values:
       layout: chapter
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      showfull: false
 
       
       
@@ -45,7 +53,7 @@ plugins:
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: 1000li.travel
   flickr:
   github: 
   instagram:
