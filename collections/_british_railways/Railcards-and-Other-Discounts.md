@@ -64,7 +64,7 @@ Also, if you accompany more than two little kids, you'll have to buy child ticke
 Children 5-15 years old need to have tickets but they enjoy 50% discount off the adult fare on all types of tickets.  When buying a ticket you just need to indicate how many adults and children are going, and the system will apply the discount automatically. If the child looks older than 15 you'll probably need to carry a proof of their age.
 
 
-![Standard child and adult tickets]({{ site.url }}/images/uk/rail/ticket_child_50percent.png)
+![Standard child and adult tickets]({{ site.url }}/images/{{ page.collection }}/ticket_child_50percent.png)
 *Standard discounted child ticket and a corresponding adult ticket for the same route (to be exact, these are the outward coupons of the Return tickets). Note the price difference*
 
 
@@ -86,7 +86,7 @@ Child Flat Fare is offered by train companies serving the territory to the south
 
 Yet this offer is somewhat elusive. Greater Anglia, a company serving the north-eastern sector, sells "Kids for £2" tickets only at station ticket offices. Thameslink, on the contrary, requires that you buy them online. So do Southern and Great Nothern (which are actually managed by the same company as Thameslink). Southeastern offers "Kids for a Quid" both online and at ticket offices but not from ticket machines. However, I could not find Child Flat Fare tickets for Southeastern trains in National Rail journey planner unless I got redirected to Southeastern's own website. c2c, running trains along the north bank of the Thames to the sea coast on the east, restricts "Kids for £2" validity on weekdays to the periods of school holidays.
 
-![Child Flat Fare ticket]({{ site.url }}/images/uk/rail/ticket_child_2pounds.png)
+![Child Flat Fare ticket]({{ site.url }}/images/{{ page.collection }}/ticket_child_2pounds.png)
 *"Kids for £2" ticket and the accompanying adult's ticket*
 
 If your group qualifies both for _Family and Friends_ railcard and for Child Flat Fare, there are two options:
@@ -103,7 +103,7 @@ On some routes groups of 3 to 9 adults traveling off-peak receive 33% discount. 
 
 Groupsave is not a separate ticket type. You will be buying Off-Peak or Anytime tickets, as you normally do. Indicate the number of adults and the system will apply Groupsave discount if it is available. 
 
-![Groupsave ticket]({{ site.url }}/images/uk/rail/Groupsave_ticket.png)
+![Groupsave ticket]({{ site.url }}/images/{{ page.collection }}/Groupsave_ticket.png)
 
 Groupsave is offered by train companies serving the southern part of England. If you are traveling to the west, south, east or north-east of London, Groupsave will be available pretty much everywhere. To the north or north-west, the same destinations may be served by companies who offer Groupsave and who don't. This is why in a journey planner some trains will be shown much cheaper for your group than the others, with the same ticket type.
 
@@ -128,7 +128,7 @@ PlusBus is a day ticket entitling you to unlimited rides on buses (or trams) acr
 
 For example, if you are in London and going to visit Ely and Cambridge, you have two options with train tickets. You may buy either a Return ticket to Ely and break your journey in Cambridge, or you may buy two Return tickets, one London to Cambridge and the other Cambridge to Ely. From the railway's point of view, both choices are equally valid. However, if you want to take buses in Cambridge, only the latter option can get you a PlusBus ticket for Cambridge. With the first option, Cambridge is not shown on your train ticket as the origin or the destination.
 
-![PlusBus ticket]({{ site.url }}/images/uk/rail/PlusBus_ticket.png)
+![PlusBus ticket]({{ site.url }}/images/{{ page.collection }}/PlusBus_ticket.png)
 *Example of PlusBus ticket*
 
 There are a few more catches:

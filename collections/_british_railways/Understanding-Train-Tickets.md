@@ -4,7 +4,7 @@ order: 2
 tags: [railway, train, ticket, Advance, Anytime, Off-Peak, Single, Return, seat reservation, Rover]
 ---
 
-![]({{ site.url }}/images/uk/rail/tickets_on_table1.jpg)
+![]({{ site.url }}/images/{{ page.collection }}/tickets_on_table1.jpg)
 
 *This is the second part of ["British railways. Visitor's manual"]({{ site.url }}/{{ page.collection }})*
 
@@ -28,7 +28,7 @@ For longer distance trains, an Advance ticket always comes with a seat reservati
 
 Below you can see an example of an Advance ticket. This ticket was for a journey from Newark to Hexham which consisted of two legs with the connection in Newcastle. Consequently, the ticket specifies two trains to be taken: the long distance 16:44 service from Newark North Gate to Newcastle, and the local 19:25 service from Newcastle to Hexham. Seat 4 in coach B is reserved on the first train. On the second leg, the local train does not provide seat reservations.
 
-![Advance ticket]({{ site.url }}/images/uk/rail/Advance_ticket.png)
+![Advance ticket]({{ site.url }}/images/{{ page.collection }}/Advance_ticket.png)
 
 
 You may have noticed that the type of ticket is not just Advance but Advance Single. This is a purely technical nuance. "Single" means "one-way". As all Advance tickets are one-way, they are all Single tickets.
@@ -112,7 +112,7 @@ The second feature of a walk-up ticket indicates whether this is a one-way or a 
 
 - Single - this is a one-way ticket. It is valid on the day of travel which is printed on the ticket. 
 
-![Anytime Single tickets]({{ site.url }}/images/uk/rail/Anytime_Single_tickets.png)
+![Anytime Single tickets]({{ site.url }}/images/{{ page.collection }}/Anytime_Single_tickets.png)
 *Anytime Single tickets bought over-the-counter (left) and printed by a self-service machine (right)*
 
 - Return - this is a round-trip ticket. The outward part is valid on the day of travel which is printed on the ticket. The return journey must be completed within one calendar month. You may as well return on the same day if you wish.
@@ -126,17 +126,17 @@ Whatever type of a return ticket you buy,  the ticket will be printed in two cou
 
 Off-Peak Day Return ticket printed by a self-service machine:
 
-![Off-Peak Day Return ticket printed by self-service machine]({{ site.url }}/images/uk/rail/Off-Peak_Day_Return_ticket.png)
+![Off-Peak Day Return ticket printed by self-service machine]({{ site.url }}/images/{{ page.collection }}/Off-Peak_Day_Return_ticket.png)
 
 
 Off-Peak Day Return ticket bought over-the-counter in the ticket office:     
 
-![Off-Peak Day Return ticket bought from a clerk]({{ site.url }}/images/uk/rail/Off-Peak_Day_Return_ticket_clerk.png)
+![Off-Peak Day Return ticket bought from a clerk]({{ site.url }}/images/{{ page.collection }}/Off-Peak_Day_Return_ticket_clerk.png)
 
 
 The return coupon of an Off-Peak Return ticket showing the 31 day period of validity:
 
-![Return coupon of an Off-Peak Return ticket]({{ site.url }}/images/uk/rail/Off-Peak_Return_ticket.png)
+![Return coupon of an Off-Peak Return ticket]({{ site.url }}/images/{{ page.collection }}/Off-Peak_Return_ticket.png)
 
 
 
@@ -175,7 +175,7 @@ We'll be traveling from London to Bath both one-way and return. The railway stat
 
 The diagram below shows a range of ticket prices, in pounds, for a one-way trip to Bath. 
 
-![Single ticket prices]({{ site.url }}/images/uk/rail/ticket_price_diagram_oneway.png)
+![Single ticket prices]({{ site.url }}/images/{{ page.collection }}/ticket_price_diagram_oneway.png)
 
 You can see that there is six times difference between the most expensive ticket (Anytime) and the cheapest of the Advance tickets. 
 
@@ -185,11 +185,11 @@ Finally, you can spot two Anytime fares, the other one being significantly cheap
 
 The next diagram shows the cheapest Single ticket option by the time of day, separately for Advance and walk-up tickets.
 
-![Lowest Single ticket price by time of day]({{ site.url }}/images/uk/rail/ticket_price_diagram_hours.png)
+![Lowest Single ticket price by time of day]({{ site.url }}/images/{{ page.collection }}/ticket_price_diagram_hours.png)
 
 Finally, let's examine the options for the round-trip. In this case, you can buy either two single tickets (Advance or walk-up) or one walk-up return ticket. I've put together both variants to compare in the following diagram.
 
-![Return ticket prices]({{ site.url }}/images/uk/rail/ticket_price_diagram_return.png)
+![Return ticket prices]({{ site.url }}/images/{{ page.collection }}/ticket_price_diagram_return.png)
 
 For a round-trip two Advance tickets are still the cheapest option. However, on some routes, where Off-Peak Day Return is offered, it may turn out even cheaper than the pair of Advance tickets. 
 
@@ -211,7 +211,7 @@ If you are buying a walk-up ticket you may request seat reservation as well. The
 
 On the train, reserved seats are marked with paper flyers stuck into the tops of seats. Alternatively, some types of carriages provide the reservation information on an electronic display above the seat.
 
-![Seat reservation coupon and flyer]({{ site.url }}/images/uk/rail/seat_reservation.png)
+![Seat reservation coupon and flyer]({{ site.url }}/images/{{ page.collection }}/seat_reservation.png)
 
 
 ## Rover/Ranger tickets
