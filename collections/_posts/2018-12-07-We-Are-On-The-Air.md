@@ -1,6 +1,7 @@
 ---
 title: We are on the air
 excerpt_separator: <!--more-->
+showfull: true
 ---
 
 Hello, world! 
